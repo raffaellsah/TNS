@@ -1,16 +1,5 @@
 #EXTM3U
 
-##CAMERAS## 
-
-#EXTINF:0 group-title="Câmeras 📽️" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Praça da Inspiração - Goiânia
-https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w1619468484.m3u8?IMDSFULL
-#EXTINF:0 group-title="NOVA FONTE CANAIS" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Barra da Tijuca
-https://cdn.jmvstream.com/w/IPC-6849/camera.stream/chunklist_w2094923708.m3u8?IMDSFULL
-#EXTINF:0 group-title="NOVA FONTE CANAIS" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Ponte Internacional da Amizade
-https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8?IMDSFULL
-#EXTINF:0 group-title="NOVA FONTE CANAIS" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Praia de Tramandaí
-http://vid1.streaming.websul.net.br:1935/live/ods-paradouro.stream/chunklist_w544980703.m3u8?IMDSFULL
-
 ##INFANTIS##
 
 #EXTINF:0 group-title="CANAIS INFANTIL" tvg-logo="http://i.imgur.com/ETxffjm.png",Disney Channel
