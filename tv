@@ -268,94 +268,24 @@ http://sv1.myiptv4k.top:8080/carlos/102030/19074
 
 ##ESPORTES##
 
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",EI PLUS 1
-http://svrhost.club/2MH1HK4V/ZB5KLBFS/8146?tkn=1607199764
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",EI PLUS 2
-http://svrhost.club/2MH1HK4V/ZB5KLBFS/8146?tkn=1606739377
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN 1
-http://cloud-nany.cc:80/hyr3cf7/36387/1228
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN 2
-http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_480_av-b.m3u8
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",DAZN 1
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/40985
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",DAZN 2
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/33627
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",FOX ESPORTES 1
-http://cloud-nany.cc:80/hyr3cf7/36387/1214
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",FOX ESPORTES 2
-http://cloud-nany.cc:80/hyr3cf7/36387/1215
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",COMBATE 1
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/33080
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",COMBATE 2
-http://meumd.com:80/8594060937/rqLHRK4K/100216
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",COMBATE 3
-http://cloud-nany.cc:80/hyr3cf7/36387/6715
-#EXTINF:0 group-title="ESPORTES tvg-logo="LOGO","EI PLUS 1
-http://svrhost.club/2MH1HK4V/ZB5KLBFS/8146?tkn=1607199764
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",EI PLUS 2
-http://svrhost.club/2MH1HK4V/ZB5KLBFS/8146?tkn=1606739377
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN 1
-http://cloud-nany.cc:80/hyr3cf7/36387/1228
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN 2
-http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_480_av-b.m3u8
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",DAZN 1
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/40985
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",DAZN 2
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/33627
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",FOX ESPORTES 1
-http://cloud-nany.cc:80/hyr3cf7/36387/1214
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",FOX ESPORTES 2
-http://cloud-nany.cc:80/hyr3cf7/36387/1215
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",COMBATE 1
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/33080
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",COMBATE 2
-http://meumd.com:80/8594060937/rqLHRK4K/100216
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",COMBATE 3
-http://cloud-nany.cc:80/hyr3cf7/36387/6715
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",SPORTV 
-http://rec2.distv.net:80/jeremias/123456/509
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",SPORTV 2
-http://rec2.distv.net:80/jeremias/123456/510
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",SPORTV 3
-http://rec2.distv.net:80/jeremias/123456/511
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",PREMIERE 1
-http://rec2.distv.net:80/jeremias/123456/503
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",PREMIERE 2
-http://rec2.distv.net:80/jeremias/123456/501
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",PREMIERE 3
-http://rec2.distv.net:80/jeremias/123456/502
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",CONMEBOL 2
-http://sv1.myiptv4k.top:8080/carlos/102030/21766
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",CONMEBOL TV 03
-http://sv1.myiptv4k.top:8080/carlos/102030/21767
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",DAZN 2
-http://sv1.myiptv4k.top:8080/carlos/102030/11288
 #EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN
-http://sv1.myiptv4k.top:8080/carlos/102030/3659
+https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN 1
+http://cloud-nany.cc:80/hyr3cf7/36387/1228
 #EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN 2
-http://sv1.myiptv4k.top:8080/carlos/102030/3653
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN 2 HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3658
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN Brasil
-http://sv1.myiptv4k.top:8080/carlos/102030/3657
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN BRASIL HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3656
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN EXTRA HD
-http://sv1.myiptv4k.top:8080/carlos/102030/6067
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3654
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPORTE INTERATIVO HD 
-http://sv1.myiptv4k.top:8080/carlos/102030/18693
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",FISH TV
-http://sv1.myiptv4k.top:8080/carlos/102030/6476
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",FISH TV HD
-http://sv1.myiptv4k.top:8080/carlos/102030/6830
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",Fox Sports 2
-http://sv1.myiptv4k.top:8080/carlos/102030/3641
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",FOX SPORTS 2 HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3640
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",FOX SPORTS HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3639
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_480_av-b.m3u8
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",FOX ESPORTES 1
+http://cloud-nany.cc:80/hyr3cf7/36387/1214
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",FOX ESPORTES 2
+http://cloud-nany.cc:80/hyr3cf7/36387/1215
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",COMBATE 1
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/33080
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",COMBATE 3
+http://cloud-nany.cc:80/hyr3cf7/36387/6715
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",PREMIERE
+https://live.futebolfree.com/PREMIERECLUBES/video.m3u8
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",DAZN
+https://dc1-live2dash-perform.secure.footprint.net/out/u/dazn-linear-dc1-001_audio_1_12_27006250.mp4?m=1606479010
 
 ##VARIADOS FECHADOS##
 
