@@ -217,22 +217,16 @@ http://sv1.myiptv4k.top:8080/carlos/102030/3637
 #EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",FX HD
 http://sv1.myiptv4k.top:8080/carlos/102030/3636
 
-##SÉRIES##
+##SÉRIES e SERIADOS##
 
 #EXTINF:0 group-title="SÉRIES" tvg-logo="LOGO",WARNER CHANNEL
 http://rec2.distv.net:80/jeremias/123456/532
 #EXTINF:0 group-title="SÉRIES" tvg-logo="LOGO",TNT SERIES
 http://rec2.distv.net:80/jeremias/123456/523
-#EXTINF:0 group-title="SÉRIES" tvg-logo="LOGO",PRIME BOX BRAZIL
-http://rec2.distv.net:80/jeremias/123456/504
-
-##SERIADOS##
-
-#EXTINF:0 group-title="SERIADOS" tvg-logo="LOGO",COMEDY CENTRAL
+#EXTINF:0 group-title="SÉRIES e SERIADOS" tvg-logo="LOGO",COMEDY CENTRAL
 http://sv1.myiptv4k.top:8080/carlos/102030/3686
-#EXTINF:0 group-title="SERIADOS" tvg-logo="LOGO",COMEDY CENTRAL HD
+#EXTINF:0 group-title="SÉRIES e SERIADOS" tvg-logo="LOGO",COMEDY CENTRAL HD
 http://sv1.myiptv4k.top:8080/carlos/102030/3685
-
 
 ##CINE SKY & PIPOCA##
 
@@ -536,9 +530,6 @@ http://rec2.distv.net:80/jeremias/123456/507
 http://rec2.distv.net:80/jeremias/123456/505
 #EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="LOGO",REDE TV
 http://rec2.distv.net:80/jeremias/123456/506
-
-
-
 #EXTINF:0 group-title="CANAIS ABERTOS", tvg-logo="https://i.imgur.com/R8qQGoZ.png",Record RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8?IMDSFULL
 #EXTINF:0 group-title="CANAIS ABERTOS", tvg-logo="https://i.imgur.com/R8qQGoZ.png",Record DF
@@ -662,24 +653,6 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?IMDSFULL
 #EXTINF:0 group-title="RELIGIOSOS" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?IMDSFULL
 
-##RÁDIOS##
-
-#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Nativa SP
-https://evpp.mm.uol.com.br/band/nativa_sp/chunklist_w1902334984.m3u8?IMDSFULL
-#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Alpha SP
-https://ice.fabricahost.com.br/alphafm1017?compat=1
-
-##CAMERAS## 
-
-#EXTINF:0 group-title="Câmeras 📽️" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Praça da Inspiração - Goiânia
-https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w1619468484.m3u8?IMDSFULL
-#EXTINF:0 group-title="Câmeras 📽️" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Barra da Tijuca
-https://cdn.jmvstream.com/w/IPC-6849/camera.stream/chunklist_w2094923708.m3u8?IMDSFULL
-#EXTINF:0 group-title="Câmeras 📽️" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Ponte Internacional da Amizade
-https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8?IMDSFULL
-#EXTINF:0 group-title="Câmeras 📽️" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Praia de Tramandaí
-http://vid1.streaming.websul.net.br:1935/live/ods-paradouro.stream/chunklist_w544980703.m3u8?IMDSFULL
-
 ##CONTEÚDO ADULTO##
 
 #EXTINF:0 group-title="CONTEÚDO ADULTO", tvg-logo="https://i.imgur.com/gckSy0H.png",JASMIN CHANNEL
@@ -698,7 +671,6 @@ http://static.brazzers.com/scenes/3344/180sec.flv?IDMSFULL
 http://static.brazzers.com/scenes/3345/180sec.flv?IDMSFULL
 #EXTINF:0 group-title="CONTEÚDO ADULTO", tvg-logo="https://i.imgur.com/gckSy0H.png",Visit-X TV
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8?IMDSFULL
-
 #EXTINF:0 group-title="CONTEÚDO ADULTO", tvg-logo="https://goo.gl/dJkoDK",Adult 4K: VOD1
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4?IMDSFULL
 #EXTINF:0 group-title="CONTEÚDO ADULTO", tvg-logo="https://goo.gl/1QJrR1",Adult 4K: VOD2
