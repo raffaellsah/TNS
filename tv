@@ -17,7 +17,6 @@ http://khtro.com:25461/2b213644tz/51826rs/31582
 
 ##INFANTIS##
 
-
 #EXTINF:0 group-title="INFANTIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",BOOMERANG 1
 http://cloud-nany.cc:80/hyr3cf7/36387/8129
 #EXTINF:0 group-title="INFANTIS", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",BOOMERANG 2
@@ -219,9 +218,9 @@ http://sv1.myiptv4k.top:8080/carlos/102030/3636
 
 ##SÉRIES e SERIADOS##
 
-#EXTINF:0 group-title="SÉRIES" tvg-logo="LOGO",WARNER CHANNEL
+#EXTINF:0 group-title="SÉRIES e SERIADOS" tvg-logo="LOGO",WARNER CHANNEL
 http://rec2.distv.net:80/jeremias/123456/532
-#EXTINF:0 group-title="SÉRIES" tvg-logo="LOGO",TNT SERIES
+#EXTINF:0 group-title="SÉRIES e SERIADOS" tvg-logo="LOGO",TNT SERIES
 http://rec2.distv.net:80/jeremias/123456/523
 #EXTINF:0 group-title="SÉRIES e SERIADOS" tvg-logo="LOGO",COMEDY CENTRAL
 http://sv1.myiptv4k.top:8080/carlos/102030/3686
@@ -514,7 +513,6 @@ http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8?IMDSFULL
 http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?IMDSFULL
 #EXTINF:0 group-title="EDUCATIVO" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_20
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8?IMDSFULL
-
 #EXTINF:0 group-title="EDUCATIVO" tvg-logo="LOGO",National Geographic
 http://sv1.myiptv4k.top:8080/carlos/102030/3571
 
@@ -717,7 +715,6 @@ http://content2.sexforsure.com/2013/07/03/11/Video.mp4?IMDSFULL
 http://content2.sexforsure.com/2013/07/03/20/Video.mp4?IMDSFULL
 #EXTINF:0 group-title="CONTEÚDO ADULTO", tvg-logo="https://goo.gl/5y5XyJ",Video 17
 http://content2.sexforsure.com/2013/07/03/19/Video.mp4?IMDSFULL
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/gckSy0H.png" group-title="CONTEÚDO ADULTO", Plug anal
 http://gzmbu8bjh3.singularcdn.net.br/get_file/1/25f33714bea5fa2d996a62e5743c3232b6b7097cc6/29000/29468/29468_480p.mp4?IMDSFULL
 #EXTINF:0 tvg-logo="https://i.imgur.com/gckSy0H.png" group-title="CONTEÚDO ADULTO", Diamond Kitty
