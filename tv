@@ -6,9 +6,11 @@ http://khtro.com:25461/2b213644tz/51826rs/31582
 ##INFANTIS##
 
 #EXTINF:0 group-title="INFANTIS" tvg-logo="",CARTOON NETWORK
-https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/cartoonnetwork_511a418e_4f0fc37b9da8405f35801d0b7c52b3a4d41410a9/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiMTM4LjM2LjAuNjIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODMuMC40MTAzLjExNiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA4NDgxNzQ2O30%3D
-#EXTINF:0 group-title="INFANTIS" tvg-logo="",CARTOON NETWORK
-https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/cartoonnetwork_511a418e_4f0fc37b9da8405f35801d0b7c52b3a4d41410a9/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiMTM4LjM2LjAuNjIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODMuMC40MTAzLjExNiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA4NDgyMTA0O30%3D
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/cartoonnetworksd/video.m3u8
+#EXTINF:0 group-title="INFANTIS" tvg-logo="",CARTOON NETWORK 2
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun:8443//a/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=Qw0R-SkhgWdu8Hm0etrWtw&3U1G7qaTxrPbalZnEx=1608512029
+#EXTINF:0 group-title="INFANTIS" tvg-logo="",CARTOON NETWORK 3
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/cartoonnetworksd/video.m3u8
 #EXTINF:0 group-title="INFANTIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",BOOMERANG 1
 http://cloud-nany.cc:80/hyr3cf7/36387/8129
 #EXTINF:0 group-title="INFANTIS", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",BOOMERANG 2
@@ -85,8 +87,6 @@ http://n.srv1.xyz:8880/rogerrocha/estherlorena/33080
 #EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",COMBATE 3
 http://cloud-nany.cc:80/hyr3cf7/36387/6715
 #EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",PREMIERE
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/m8m4phmc8um.m3u8?s=9uf6PQDe5clA2VY0JGBn-g&e=1608504237
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",PREMIERE 2
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 ##FILMES E SÉRIES##
 
