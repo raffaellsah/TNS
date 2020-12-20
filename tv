@@ -2,16 +2,13 @@
 
 #EXTINF:0 group-title="CANAIS 24hrs" tvg-logo="http://blog.tribunadonorte.com.br/agitosebaladas/files/2014/09/amigaozao-1-300x225.jpg",AMIGAOZÃO
 http://khtro.com:25461/2b213644tz/51826rs/31582
-#EXTINF:0 group-title="CANAIS 24hrs" tvg-logo="",SIMPSONS
-https://r2---sn-uxmoxucg-4vge.googlevideo.com/videoplayback?expire=1608465032&ei=KObeX5LsNK-C-LAPnsOuwAU&ip=138.36.0.62&id=X2ONIOqty5U.2&itag=140&source=yt_live_broadcast&requiressl=yes&mh=7Y&mm=44%2C29&mn=sn-uxmoxucg-4vge%2Csn-bg0ezn7e&ms=lva%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=988750&vprv=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&ns=rzA_XbbA7H0ILRaWeRUDwEAF&gir=yes&mt=1608443061&fvip=2&keepalive=yes&c=WEB_EMBEDDED_PLAYER&n=E1Hpuy_HBcyQaw&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgWbqphBSVq7F4mCPD_OkhlYNDKo5XJkgnyZOIIZCNIJ4CICujYMyPpGKZyok4olx3yTLcb9YdN6m2xm8sA25veVED&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgGu_WPo2VXnb_yJ50caxj0BttUGA-pAyOgg3eSiy39m4CIQDlw2W-Ex86oa-zOCiCIZTKla-uMx1R5KbYnxk6IpGFMA%3D%3D&alr=yes&cpn=JO-XqCRzyDaCiMP0&cver=20201217&sq=448531&rn=3&rbuf=1897
-#EXTINF:0 group-title="CANAIS 24hrs" tvg-logo="",CHRIS
-https://r1---sn-uxmoxucg-4vge.googlevideo.com/videoplayback?expire=1608465002&ei=CubeX4PfI4vewgSA8orIAw&ip=138.36.0.62&id=XplzZxBMB68.2&itag=298&aitags=133%2C134%2C135%2C136%2C160%2C298%2C299&source=yt_live_broadcast&requiressl=yes&mh=VJ&mm=44%2C29&mn=sn-uxmoxucg-4vge%2Csn-bg0eznll&ms=lva%2Crdu&mv=m&mvi=1&pl=24&initcwndbps=988750&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=McinSQeXZ-3G8bmwV_Cx630F&gir=yes&mt=1608443061&fvip=4&keepalive=yes&c=WEB_EMBEDDED_PLAYER&n=EKMx0nxsb4gEJg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgZLTRDtu8BzToFSEnSW3LORS_KyvreXqkN5HKtJR-LW0CIEqXexfdp5MHzoWi3kptvkUn-AImvss_i6dKLacWa8gh&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgPU51GOEDK8l3WdW_WAn8qXkTqHuIlvAVQp1IfcIFZv4CIHvNeMfTmZTlzBFfKEONWCN7mUnyx9nlDbwa20J-E83N&alr=yes&cpn=84nyM4PBhO2iyih8&cver=20201217&sq=162150&rn=3&rbuf=1879
-
 
 ##INFANTIS##
 
 #EXTINF:0 group-title="INFANTIS" tvg-logo="",CARTOON NET
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun:8443//a/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=MyDi36f2S49Hc3UEqtlGFA&3U1G7qaTxrPbalZnEx=1608467516
+https://geralorigin.eu-central-1.edge.mycdn.live/live/cartoonnetworkhd/video.m3u8
+#EXTINF:0 group-title="INFANTIS" tvg-logo="",CARTOON NET 2
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun:8443//a/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=s1KmvpkM4YWGNP4vOVY9OA&3U1G7qaTxrPbalZnEx=1608508677
 #EXTINF:0 group-title="INFANTIS" tvg-logo="",NICK JR
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun:8443//a/hls1/nickjr.m3u8?mu3zAQc9HC3GbwJq=3lup7Nxz4iHQUdgMm1_LjA&3U1G7qaTxrPbalZnEx=1608472053
 #EXTINF:0 group-title="INFANTIS" tvg-logo="",Nickelodeon
