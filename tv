@@ -256,6 +256,10 @@ http://sv1.myiptv4k.top:8080/carlos/102030/19074
 
 ##ESPORTES##
 
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",PREMIERE
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN BRASIL
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN HD
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN
