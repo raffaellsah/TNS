@@ -55,8 +55,11 @@ https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/gloob_04f1241e_206befe7a8
 
 
 ##ESPORTES##
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",TNT
+
+#EXTINF:0 group-title="ESPORTES" tvg-logo="https://scontent-for1-1.xx.fbcdn.net/v/t1.0-9/131975105_3566649116718197_7740742554373172951_o.jpg?_nc_cat=111&ccb=2&_nc_sid=730e14&_nc_eui2=AeFERKlfE-G2hknmMyjD9gzlrxhWO73TBQOvGFY7vdMFA5JgPnnc6zg2Hzi16opnW7yr-PC99cn0uRYqm_pZjgK2&_nc_ohc=eY2qkdGdED0AX90QBYI&_nc_ht=scontent-for1-1.xx&oh=074f4bd00f6fd87fb78858ffca68657e&oe=6006FAE6",TNT
 https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/tnt_9109c85a_fe3f0bac4acd81aa2777b623e089e40ab49ca3a5/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiMTM4LjM2LjAuNjIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODMuMC40MTAzLjExNiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA4NTA0NjMzO30%3D
+#EXTINF:0 group-title="ESPORTES" tvg-logo="https://scontent-for1-1.xx.fbcdn.net/v/t1.0-9/131975105_3566649116718197_7740742554373172951_o.jpg?_nc_cat=111&ccb=2&_nc_sid=730e14&_nc_eui2=AeFERKlfE-G2hknmMyjD9gzlrxhWO73TBQOvGFY7vdMFA5JgPnnc6zg2Hzi16opnW7yr-PC99cn0uRYqm_pZjgK2&_nc_ohc=eY2qkdGdED0AX90QBYI&_nc_ht=scontent-for1-1.xx&oh=074f4bd00f6fd87fb78858ffca68657e&oe=6006FAE6",TNT-2
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun:8443//a/hls1/tnt.m3u8?mu3zAQc9HC3GbwJq=S1sO8oxTNU_WBHJG7d7eFg&3U1G7qaTxrPbalZnEx=1608534659
 #EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",SPORTV
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 #EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",SPORTV 2
