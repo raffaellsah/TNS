@@ -6,11 +6,15 @@ http://khtro.com:25461/2b213644tz/51826rs/31582
 ##INFANTIS##
 
 #EXTINF:0 group-title="INFANTIS" tvg-logo="",CARTOON NET
-https://live.futebolfree.com/CARTOONSD/video.m3u8
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/cartoonnetworksd/video.m3u8
 #EXTINF:0 group-title="INFANTIS" tvg-logo="",CARTOON NET 2
-https://live.futebolfree.com/CARTOON/video.m3u8
+https://geralorigin.eu-central-1.edge.mycdn.live/live/cartoonnetworkhd/video.m3u8
 #EXTINF:0 group-title="INFANTIS" tvg-logo="",CARTOON NET 3
-https://live.esporteflix.com/CARTOONHD/video.m3u8
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun:8443//a/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=ZHwmDNzA4MPa1-Jr1pcCqg&3U1G7qaTxrPbalZnEx=1608509427
+#EXTINF:0 group-title="INFANTIS" tvg-logo="",CARTOON NET 4
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/cartoonnetwork_511a418e_4f0fc37b9da8405f35801d0b7c52b3a4d41410a9/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiMTM4LjM2LjAuNjIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODMuMC40MTAzLjExNiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA4NDgwNzkwO30%3D
+#EXTINF:0 group-title="INFANTIS" tvg-logo="",CARTOON NET 5
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun:8443//a/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=mT08Ri4LlI0D89p2ZbbeCA&3U1G7qaTxrPbalZnEx=1608509669
 #EXTINF:0 group-title="INFANTIS" tvg-logo="",NICK JR
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun:8443//a/hls1/nickjr.m3u8?mu3zAQc9HC3GbwJq=3lup7Nxz4iHQUdgMm1_LjA&3U1G7qaTxrPbalZnEx=1608472053
 #EXTINF:0 group-title="INFANTIS" tvg-logo="",Nickelodeon
