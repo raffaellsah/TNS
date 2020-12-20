@@ -6,7 +6,7 @@ http://khtro.com:25461/2b213644tz/51826rs/31582
 ##INFANTIS##
 
 #EXTINF:0 group-title="INFANTIS" tvg-logo="",CARTOON NETWORK
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun:8443//a/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=0v_ulSMIFKzf6uCUpP6kUA&3U1G7qaTxrPbalZnEx=1608512552
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/cartoonnetwork_511a418e_4f0fc37b9da8405f35801d0b7c52b3a4d41410a9/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiMTM4LjM2LjAuNjIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODMuMC40MTAzLjExNiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA4NDgyNDg5O30%3D
 #EXTINF:0 group-title="INFANTIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",BOOMERANG 1
 http://cloud-nany.cc:80/hyr3cf7/36387/8129
 #EXTINF:0 group-title="INFANTIS", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",BOOMERANG 2
@@ -15,12 +15,6 @@ http://tv.minhalista.me/live/44986080/xefj07xef/38390.ts
 https://cutt.ly/ehndIsS
 #EXTINF:0 group-title="INFANTIS" tvg-logo="",ANIME TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1834182189.m3u8
-#EXTINF:0 group-title="INFANTIS" tvg-logo="LOGO",TOONCAST
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/tooncast_8effee40_3ddefc8814903cbd5f6181fbf68063bafd10b5ce/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiMTM4LjM2LjAuNjIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODMuMC40MTAzLjExNiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA4NDgxNDg1O30%3D
-#EXTINF:0 group-title="INFANTIS" tvg-logo="LOGO",TOONCAST
-https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/cartoonnetwork_511a418e_4f0fc37b9da8405f35801d0b7c52b3a4d41410a9/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiMTM4LjM2LjAuNjIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODMuMC40MTAzLjExNiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA4NDgyNDg5O30%3D
-#EXTINF:0 group-title="INFANTIS" tvg-logo="LOGO",ZooMoo Kids
-https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/zoomookids_9dbb7f83_5810877d223c234787cf11c6de2ba685e1dc438a/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiMTM4LjM2LjAuNjIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODMuMC40MTAzLjExNiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA4NDgyNDIzO30%3D
 #EXTINF:0 group-title="INFANTIS" tvg-logo="http://i.imgur.com/ETxffjm.png" tvg-logo="LOGO",Disney Channel SD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-b.m3u8?IMDSFULL
 #EXTINF:0 group-title="INFANTIS" tvg-logo="http://i.imgur.com/ETxffjm.png" tvg-logo="LOGO",Disney Channel HD
@@ -48,6 +42,11 @@ http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_360_av-p.m3u8?IMDSFU
 #EXTINF:0 group-title="INFANTIS" tvg-logo="http://i.imgur.com/sFwOnxG.png" tvg-logo="LOGO",Play Kids HD
 http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8?IMDSFULL
 
+
+#EXTINF:0 group-title="INFANTIS" tvg-logo="LOGO",TOONCAST
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/tooncast_8effee40_3ddefc8814903cbd5f6181fbf68063bafd10b5ce/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiMTM4LjM2LjAuNjIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODMuMC40MTAzLjExNiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA4NDgxNDg1O30%3D
+#EXTINF:0 group-title="INFANTIS" tvg-logo="LOGO",ZooMoo Kids
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/zoomookids_9dbb7f83_5810877d223c234787cf11c6de2ba685e1dc438a/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiMTM4LjM2LjAuNjIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODMuMC40MTAzLjExNiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA4NDgyNDIzO30%3D
 #EXTINF:0 group-title="INFANTIS" tvg-logo="",NICK JR
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun:8443//a/hls1/nickjr.m3u8?mu3zAQc9HC3GbwJq=3lup7Nxz4iHQUdgMm1_LjA&3U1G7qaTxrPbalZnEx=1608472053
 #EXTINF:0 group-title="INFANTIS" tvg-logo="",Nickelodeon
