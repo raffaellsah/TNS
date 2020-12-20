@@ -6,9 +6,11 @@ http://khtro.com:25461/2b213644tz/51826rs/31582
 ##INFANTIS##
 
 #EXTINF:0 group-title="INFANTIS" tvg-logo="",CARTOON NET
-https://geralorigin.eu-central-1.edge.mycdn.live/live/cartoonnetworkhd/video.m3u8
+https://live.futebolfree.com/CARTOONSD/video.m3u8
 #EXTINF:0 group-title="INFANTIS" tvg-logo="",CARTOON NET 2
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun:8443//a/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=s1KmvpkM4YWGNP4vOVY9OA&3U1G7qaTxrPbalZnEx=1608508677
+https://live.futebolfree.com/CARTOON/video.m3u8
+#EXTINF:0 group-title="INFANTIS" tvg-logo="",CARTOON NET 3
+https://live.esporteflix.com/CARTOONHD/video.m3u8
 #EXTINF:0 group-title="INFANTIS" tvg-logo="",NICK JR
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun:8443//a/hls1/nickjr.m3u8?mu3zAQc9HC3GbwJq=3lup7Nxz4iHQUdgMm1_LjA&3U1G7qaTxrPbalZnEx=1608472053
 #EXTINF:0 group-title="INFANTIS" tvg-logo="",Nickelodeon
