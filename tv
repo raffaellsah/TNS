@@ -257,9 +257,7 @@ http://sv1.myiptv4k.top:8080/carlos/102030/19074
 ##ESPORTES##
 
 #EXTINF:0 group-title="ESPORTES" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Premiere TST
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun:8443/a/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=x0cHX8tL1_fHOjTCImcC5A&3U1G7qaTxrPbalZnEx=1608458157
-#EXTINF:0 group-title="ESPORTES" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Premiere TST2
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun:8443/a/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=3uldlI6FoDIOE65krbLuhg&3U1G7qaTxrPbalZnEx=1608458162
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun:8443/a/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=ubznypm-c5pv12OFo-HaYg&3U1G7qaTxrPbalZnEx=1608458692
 #EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",PREMIERE
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN BRASIL
