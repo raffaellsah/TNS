@@ -80,6 +80,37 @@ http://sv1.myiptv4k.top:8080/carlos/102030/3666
 #EXTINF:0 group-title="INFANTIS" tvg-logo="LOGO",KURIAKOS
 https://cutt.ly/jhndp4i
 
+##ESPORTES##
+
+#EXTINF:0 group-title="ESPORTES" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Premiere TST
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun:8443/a/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=ubznypm-c5pv12OFo-HaYg&3U1G7qaTxrPbalZnEx=1608458692
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",PREMIERE
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN BRASIL
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN HD
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN
+https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN 1
+http://cloud-nany.cc:80/hyr3cf7/36387/1228
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN 2
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",FOX ESPORTES 1
+http://cloud-nany.cc:80/hyr3cf7/36387/1214
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",FOX ESPORTES 2
+http://cloud-nany.cc:80/hyr3cf7/36387/1215
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",COMBATE 1
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/33080
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",COMBATE 3
+http://cloud-nany.cc:80/hyr3cf7/36387/6715
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",PREMIERE
+https://live.futebolfree.com/PREMIERECLUBES/video.m3u8
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",DAZN
+https://dcalivedazn.akamaized.net/1ndbjb6yrae3x1xozf920e81j5/all/dash/avc_dash_global-stream_audio_eng_128000=128000-77203532152320.dash?outlet=dazn-latin
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",DAZN 2
+https://dcalivedazn.akamaized.net/1ndbjb6yrae3x1xozf920e81j5/all/dash/avc_dash_global-video=3000000.dash?outlet=dazn-latin
+
 ##FILMES E SÉRIES##
 
 #EXTINF:0 group-title="FILMES & SÉRIES" tvg-logo="LOGO",PPTV
@@ -253,35 +284,6 @@ http://sv1.myiptv4k.top:8080/carlos/102030/19072
 http://sv1.myiptv4k.top:8080/carlos/102030/19073
 #EXTINF:0 group-title="CINE SKY & PIPOCA" tvg-logo="LOGO",CINE SKY 09 HD
 http://sv1.myiptv4k.top:8080/carlos/102030/19074
-
-##ESPORTES##
-
-#EXTINF:0 group-title="ESPORTES" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Premiere TST
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun:8443/a/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=ubznypm-c5pv12OFo-HaYg&3U1G7qaTxrPbalZnEx=1608458692
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",PREMIERE
-https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN BRASIL
-https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN HD
-https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN
-https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN 1
-http://cloud-nany.cc:80/hyr3cf7/36387/1228
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN 2
-https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",FOX ESPORTES 1
-http://cloud-nany.cc:80/hyr3cf7/36387/1214
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",FOX ESPORTES 2
-http://cloud-nany.cc:80/hyr3cf7/36387/1215
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",COMBATE 1
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/33080
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",COMBATE 3
-http://cloud-nany.cc:80/hyr3cf7/36387/6715
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",PREMIERE
-https://live.futebolfree.com/PREMIERECLUBES/video.m3u8
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",DAZN
-https://dc1-live2dash-perform.secure.footprint.net/out/u/dazn-linear-dc1-001_audio_1_12_27006250.mp4?m=1606479010
 
 ##VARIADOS FECHADOS##
 
