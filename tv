@@ -55,7 +55,8 @@ https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/gloob_04f1241e_206befe7a8
 
 
 ##ESPORTES##
-
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",TNT
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/tnt_9109c85a_fe3f0bac4acd81aa2777b623e089e40ab49ca3a5/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiMTM4LjM2LjAuNjIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODMuMC40MTAzLjExNiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA4NTA0NjMzO30%3D
 #EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",SPORTV
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 #EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",SPORTV 2
