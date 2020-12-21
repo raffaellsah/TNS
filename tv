@@ -80,7 +80,7 @@ https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/sportv2_22ab0e43_f69815da5229
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN HD
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN
+#EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN SD
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",ESPN 1
 http://cloud-nany.cc:80/hyr3cf7/36387/1228
