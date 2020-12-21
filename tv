@@ -1,5 +1,34 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="" group-title="TESTE",DISC
+http://cloud-nany.cc:80/hyr3cf7/36387/8099
+#EXTINF:0 tvg-logo="" group-title="TESTE",DISC HeH
+http://cloud-nany.cc:80/hyr3cf7/36387/1048
+#EXTINF:0 tvg-logo="" group-title="TESTE",DISC SCI
+http://cloud-nany.cc:80/hyr3cf7/36387/1244
+#EXTINF:0 tvg-logo="" group-title="TESTE",DISC SCI-2
+http://cloud-nany.cc:80/hyr3cf7/36387/8105
+#EXTINF:0 tvg-logo="" group-title="TESTE",DISC TEATRO
+http://cloud-nany.cc:80/hyr3cf7/36387/1047
+#EXTINF:0 tvg-logo="" group-title="TESTE",DISC TURBO
+http://cloud-nany.cc:80/hyr3cf7/36387/1046
+#EXTINF:0 tvg-logo="" group-title="TESTE",DISC CHAN
+http://cloud-nany.cc:80/hyr3cf7/36387/1049
+#EXTINF:0 tvg-logo="" group-title="TESTE",TNT 
+http://cloud-nany.cc:80/hyr3cf7/36387/1094
+#EXTINF:0 tvg-logo="" group-title="TESTE",TNT-2
+http://cloud-nany.cc:80/hyr3cf7/36387/7907
+#EXTINF:0 tvg-logo="" group-title="TESTE",TNT SÉRIES
+http://cloud-nany.cc:80/hyr3cf7/36387/1092
+#EXTINF:0 tvg-logo="" group-title="TESTE",TLC
+http://blackuhd.co:80/ednardo/102030/5241
+#EXTINF:0 tvg-logo="" group-title="TESTE",TLC-2
+http://puhd.host:80/ANDREFERNANDES/Andrefernandes20/9250
+#EXTINF:0 tvg-logo="" group-title="TESTE",TOONCAST
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/33665
+#EXTINF:0 tvg-logo="" group-title="TESTE",TOONCAST-2
+http://tv.minhalista.me/live/44986080/xefj07xef/37033.ts
+
 #EXTINF:0 group-title="CANAIS 24hrs" tvg-logo="http://blog.tribunadonorte.com.br/agitosebaladas/files/2014/09/amigaozao-1-300x225.jpg",AMIGAOZÃO
 http://khtro.com:25461/2b213644tz/51826rs/31582
 
