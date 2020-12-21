@@ -24,10 +24,6 @@ http://cloud-nany.cc:80/hyr3cf7/36387/1092
 http://blackuhd.co:80/ednardo/102030/5241
 #EXTINF:0 tvg-logo="" group-title="TESTE",TLC-2
 http://puhd.host:80/ANDREFERNANDES/Andrefernandes20/9250
-#EXTINF:0 tvg-logo="" group-title="TESTE",TOONCAST
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/33665
-#EXTINF:0 tvg-logo="" group-title="TESTE",TOONCAST-2
-http://tv.minhalista.me/live/44986080/xefj07xef/37033.ts
 
 #EXTINF:0 tvg-logo="" group-title="TESTE",MTV
 http://puhd.host:80/ANDREFERNANDES/Andrefernandes20/9140
@@ -39,10 +35,26 @@ http://khtro.com:25461/2b213644tz/51826rs/31582
 
 ##INFANTIS##
 
+#EXTINF:0 group-title="INFANTIS" tvg-logo="https://cdn.mitvstatic.com/channels/br_gloob_m.png",GLOOB
+http://meumd.com:80/8594060937/rqLHRK4K/54110
+#EXTINF:0 group-title="INFANTIS" tvg-logo="",NICK JR
+http://khtro.com:25461/2b213644tz/51826rs/1113
+#EXTINF:0 group-title="INFANTIS" tvg-logo="",Nickelodeon
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32622
+#EXTINF:0 group-title="INFANTIS" tvg-logo="",NATGEO KIDS
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32645
+#EXTINF:0 group-title="INFANTIS" tvg-logo="http://scontent-for1-1.xx.fbcdn.net/v/t1.0-9/77284168_10157354644863300_190452520785543168_n.jpg?_nc_cat=110&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeE4qa-Uhwby47KN63WFzQfhkDqwIWFJCCqQOrAhYUkIKl46xYht7EtxihINf6LlgqfXEIc7xu1uhe6eEQXj8jmd&_nc_ohc=VnqHql9ssgkAX_GgL-A&_nc_ht=scontent-for1-1.xx&oh=264393bd8dc79362b1b692b2a9fa9247&oe=60052BFD",CARTOON NETWORK HD
+http://cloud-nany.cc:80/hyr3cf7/36387/24205
+#EXTINF:0 group-title="INFANTIS" tvg-logo="http://scontent-for1-1.xx.fbcdn.net/v/t1.0-9/77284168_10157354644863300_190452520785543168_n.jpg?_nc_cat=110&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeE4qa-Uhwby47KN63WFzQfhkDqwIWFJCCqQOrAhYUkIKl46xYht7EtxihINf6LlgqfXEIc7xu1uhe6eEQXj8jmd&_nc_ohc=VnqHql9ssgkAX_GgL-A&_nc_ht=scontent-for1-1.xx&oh=264393bd8dc79362b1b692b2a9fa9247&oe=60052BFD",CARTOON NETWORK SD
+http://blackuhd.co:80/ednardo/102030/21224
+#EXTINF:0 group-title="INFANTIS" tvg-logo="LOGO",ZooMoo Kids
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/33733
+#EXTINF:0 tvg-logo="" group-title="TESTE",TOONCAST
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/33665
+#EXTINF:0 tvg-logo="" group-title="TESTE",TOONCAST-2
+http://tv.minhalista.me/live/44986080/xefj07xef/37033.ts
 #EXTINF:0 group-title="INFANTIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",BOOMERANG HD
 http://blackuhd.co:80/ednardo/102030/5180
-#EXTINF:0 group-title="INFANTIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",BOOMERANG SD
-http://puhd.host:80/ANDREFERNANDES/Andrefernandes20/9125
 #EXTINF:0 group-title="INFANTIS" tvg-logo="https://scontent-for1-1.xx.fbcdn.net/v/t1.0-9/131975105_3566649116718197_7740742554373172951_o.jpg?_nc_cat=111&ccb=2&_nc_sid=730e14&_nc_eui2=AeFERKlfE-G2hknmMyjD9gzlrxhWO73TBQOvGFY7vdMFA5JgPnnc6zg2Hzi16opnW7yr-PC99cn0uRYqm_pZjgK2&_nc_ohc=eY2qkdGdED0AX90QBYI&_nc_ht=scontent-for1-1.xx&oh=074f4bd00f6fd87fb78858ffca68657e&oe=6006FAE6",TNS TV
 https://cutt.ly/ehndIsS
 #EXTINF:0 group-title="INFANTIS" tvg-logo="https://scontent-for1-1.xx.fbcdn.net/v/t1.0-9/131975105_3566649116718197_7740742554373172951_o.jpg?_nc_cat=111&ccb=2&_nc_sid=730e14&_nc_eui2=AeFERKlfE-G2hknmMyjD9gzlrxhWO73TBQOvGFY7vdMFA5JgPnnc6zg2Hzi16opnW7yr-PC99cn0uRYqm_pZjgK2&_nc_ohc=eY2qkdGdED0AX90QBYI&_nc_ht=scontent-for1-1.xx&oh=074f4bd00f6fd87fb78858ffca68657e&oe=6006FAE6",ANIME TV
@@ -73,20 +85,7 @@ http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_360_av-p.m3u8?IMDSFU
 http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8?IMDSFULL
 
 
-#EXTINF:0 group-title="INFANTIS" tvg-logo="http://scontent-for1-1.xx.fbcdn.net/v/t1.0-9/77284168_10157354644863300_190452520785543168_n.jpg?_nc_cat=110&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeE4qa-Uhwby47KN63WFzQfhkDqwIWFJCCqQOrAhYUkIKl46xYht7EtxihINf6LlgqfXEIc7xu1uhe6eEQXj8jmd&_nc_ohc=VnqHql9ssgkAX_GgL-A&_nc_ht=scontent-for1-1.xx&oh=264393bd8dc79362b1b692b2a9fa9247&oe=60052BFD",CARTOON NETWORK HD
-http://cloud-nany.cc:80/hyr3cf7/36387/24205
-#EXTINF:0 group-title="INFANTIS" tvg-logo="http://scontent-for1-1.xx.fbcdn.net/v/t1.0-9/77284168_10157354644863300_190452520785543168_n.jpg?_nc_cat=110&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeE4qa-Uhwby47KN63WFzQfhkDqwIWFJCCqQOrAhYUkIKl46xYht7EtxihINf6LlgqfXEIc7xu1uhe6eEQXj8jmd&_nc_ohc=VnqHql9ssgkAX_GgL-A&_nc_ht=scontent-for1-1.xx&oh=264393bd8dc79362b1b692b2a9fa9247&oe=60052BFD",CARTOON NETWORK SD
-http://blackuhd.co:80/ednardo/102030/21224
-#EXTINF:0 group-title="INFANTIS" tvg-logo="LOGO",ZooMoo Kids
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/33733
-#EXTINF:0 group-title="INFANTIS" tvg-logo="",NICK JR
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun:8443//a/hls1/nickjr.m3u8?mu3zAQc9HC3GbwJq=3lup7Nxz4iHQUdgMm1_LjA&3U1G7qaTxrPbalZnEx=1608472053
-#EXTINF:0 group-title="INFANTIS" tvg-logo="",Nickelodeon
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun:8443//a/hls1/nick.m3u8?mu3zAQc9HC3GbwJq=-aerTZEDD00mVBgZzWASVQ&3U1G7qaTxrPbalZnEx=1608467979
-#EXTINF:0 group-title="INFANTIS" tvg-logo="",NATGEO KIDS
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun:8443//a/hls1/natgeokids.m3u8?mu3zAQc9HC3GbwJq=v0GvHg5XCS_uwhrhStMq6A&3U1G7qaTxrPbalZnEx=1608472054
-#EXTINF:0 group-title="INFANTIS" tvg-logo="https://cdn.mitvstatic.com/channels/br_gloob_m.png",GLOOB
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/gloob_04f1241e_206befe7a859165a063702cc849e6be4b710d443/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiMTM4LjM2LjAuNjIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODMuMC40MTAzLjExNiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA4NDMyNjcyO30%3D
+
 
 
 ##ESPORTES##
