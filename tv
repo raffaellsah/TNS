@@ -56,6 +56,20 @@ https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/gloob_04f1241e_206befe7a8
 
 ##ESPORTES##
 
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT FHD" tvg-logo="https://1.bp.blogspot.com/-9PwdisltN6I/Xk70j1fdEAI/AAAAAAAACHQ/2G1AsJrCgXk7GZjSvQdcZGivtDJsawOaACLcBGAsYHQ/s1600/tnt.png" group-title="Canais | Filmes e Séries ",TNT FHD
+http://needuhd.life:8080/Wagner/123456/85173
+#EXTINF:-1 tvg-id="TNT FHD H.265" tvg-name="TNT HD" tvg-logo="https://1.bp.blogspot.com/-9PwdisltN6I/Xk70j1fdEAI/AAAAAAAACHQ/2G1AsJrCgXk7GZjSvQdcZGivtDJsawOaACLcBGAsYHQ/s1600/tnt.png" group-title="Canais | Filmes e Séries ",TNT HD
+http://needuhd.life:8080/Wagner/123456/85174
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT SD" tvg-logo="https://1.bp.blogspot.com/-9PwdisltN6I/Xk70j1fdEAI/AAAAAAAACHQ/2G1AsJrCgXk7GZjSvQdcZGivtDJsawOaACLcBGAsYHQ/s1600/tnt.png" group-title="Canais | Filmes e Séries ",TNT SD
+http://needuhd.life:8080/Wagner/123456/85175
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT DUAL AUDIO" tvg-logo="https://1.bp.blogspot.com/-9PwdisltN6I/Xk70j1fdEAI/AAAAAAAACHQ/2G1AsJrCgXk7GZjSvQdcZGivtDJsawOaACLcBGAsYHQ/s1600/tnt.png" group-title="Canais | Dual Áudio - H265",TNT DUAL AUDIO
+http://needuhd.life:8080/Wagner/123456/108765
+#EXTINF:-1 tvg-id="" tvg-name="TNT FHD   $" tvg-logo="" group-title="Canais | Alternativos",TNT FHD   $
+http://needuhd.life:8080/Wagner/123456/108318
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD $" tvg-logo="" group-title="Canais | Alternativos",TNT HD $
+http://needuhd.life:8080/Wagner/123456/108593
+#EXTINF:-1 tvg-id="" tvg-name="tnt sd $" tvg-logo="" group-title="Canais | Alternativos",tnt sd $
+http://needuhd.life:8080/Wagner/123456/108513
 #EXTINF:0 group-title="ESPORTES" tvg-logo="https://scontent-for1-1.xx.fbcdn.net/v/t1.0-9/131975105_3566649116718197_7740742554373172951_o.jpg?_nc_cat=111&ccb=2&_nc_sid=730e14&_nc_eui2=AeFERKlfE-G2hknmMyjD9gzlrxhWO73TBQOvGFY7vdMFA5JgPnnc6zg2Hzi16opnW7yr-PC99cn0uRYqm_pZjgK2&_nc_ohc=eY2qkdGdED0AX90QBYI&_nc_ht=scontent-for1-1.xx&oh=074f4bd00f6fd87fb78858ffca68657e&oe=6006FAE6",TNT
 https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/tnt_9109c85a_fe3f0bac4acd81aa2777b623e089e40ab49ca3a5/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiMTM4LjM2LjAuNjIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODMuMC40MTAzLjExNiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA4NTA0NjMzO30%3D
 #EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",SPORTV
