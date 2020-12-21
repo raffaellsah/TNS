@@ -35,6 +35,18 @@ http://khtro.com:25461/2b213644tz/51826rs/31582
 
 ##INFANTIS##
 
+#EXTINF:0 group-title="INFANTIS",Nick Jr. Club
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=8cf0b2a4-3081-499e-8f03-b4834f6dc997&deviceLat=-3.7139&deviceLon=-38.5409&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=f69dc3f6-3500-11eb-8335-0242ac110002&userId=&serverSideAds=true
+#EXTINF:0 group-title="INFANTIS",Pluto Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=8cf0b2a4-3081-499e-8f03-b4834f6dc997&deviceLat=-3.7139&deviceLon=-38.5409&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=71c3bb7d-3500-11eb-9da6-0242ac110002&userId=&serverSideAds=true
+#EXTINF:0 group-title="INFANTIS" tvg-logo="https://i.imgur.com/R8qQGoZ.png" tvg-logo="LOGO",TV Destak
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?IMDSFULL
+#EXTINF:0 group-title="INFANTIS" tvg-logo="LOGO",KURIAKOS
+https://cutt.ly/jhndp4i
+#EXTINF:0 group-title="INFANTIS" tvg-logo="http://i.imgur.com/sFwOnxG.png" tvg-logo="LOGO",Play Kids SD
+http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_360_av-p.m3u8?IMDSFULL
+#EXTINF:0 group-title="INFANTIS" tvg-logo="http://i.imgur.com/sFwOnxG.png" tvg-logo="LOGO",Play Kids HD
+http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8?IMDSFULL
 #EXTINF:0 group-title="INFANTIS" tvg-logo="",GLOOBINHO
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/52607
 #EXTINF:0 group-title="INFANTIS" tvg-logo="https://cdn.mitvstatic.com/channels/br_gloob_m.png",GLOOB HD
@@ -75,18 +87,7 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8?IM
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8?IMDSFULL
 #EXTINF:0 group-title="INFANTIS" tvg-logo="https://i.imgur.com/R8qQGoZ.png" tvg-logo="https://scontent-for1-1.xx.fbcdn.net/v/t1.0-9/131975105_3566649116718197_7740742554373172951_o.jpg?_nc_cat=111&ccb=2&_nc_sid=730e14&_nc_eui2=AeFERKlfE-G2hknmMyjD9gzlrxhWO73TBQOvGFY7vdMFA5JgPnnc6zg2Hzi16opnW7yr-PC99cn0uRYqm_pZjgK2&_nc_ohc=eY2qkdGdED0AX90QBYI&_nc_ht=scontent-for1-1.xx&oh=074f4bd00f6fd87fb78858ffca68657e&oe=6006FAE6",Pluto Júnior
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=8cf0b2a4-3081-499e-8f03-b4834f6dc997&deviceLat=-3.7139&deviceLon=-38.5409&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=745ca511-34fc-11eb-a923-0242ac110002&userId=&serverSideAds=true
-#EXTINF:0 group-title="INFANTIS",Nick Jr. Club
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=8cf0b2a4-3081-499e-8f03-b4834f6dc997&deviceLat=-3.7139&deviceLon=-38.5409&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=f69dc3f6-3500-11eb-8335-0242ac110002&userId=&serverSideAds=true
-#EXTINF:0 group-title="INFANTIS",Pluto Kids
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=8cf0b2a4-3081-499e-8f03-b4834f6dc997&deviceLat=-3.7139&deviceLon=-38.5409&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=71c3bb7d-3500-11eb-9da6-0242ac110002&userId=&serverSideAds=true
-#EXTINF:0 group-title="INFANTIS" tvg-logo="https://i.imgur.com/R8qQGoZ.png" tvg-logo="LOGO",TV Destak
-http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?IMDSFULL
-#EXTINF:0 group-title="INFANTIS" tvg-logo="LOGO",KURIAKOS
-https://cutt.ly/jhndp4i
-#EXTINF:0 group-title="INFANTIS" tvg-logo="http://i.imgur.com/sFwOnxG.png" tvg-logo="LOGO",Play Kids SD
-http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_360_av-p.m3u8?IMDSFULL
-#EXTINF:0 group-title="INFANTIS" tvg-logo="http://i.imgur.com/sFwOnxG.png" tvg-logo="LOGO",Play Kids HD
-http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8?IMDSFULL
+
 
 
 
@@ -208,7 +209,7 @@ http://rec2.distv.net:80/jeremias/123456/476
 #EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",HBO SIGNATURE
 http://rec2.distv.net:80/jeremias/123456/478
 #EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",HBO XTREME
-http://rec2.distv.net:80/jeremias/123456/477
+http://cloud-nany.cc:80/hyr3cf7/36387/7996
 #EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",MEGAPIX
 http://rec2.distv.net:80/jeremias/123456/484
 #EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",TC ACTION
