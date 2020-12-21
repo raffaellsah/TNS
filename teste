@@ -20,8 +20,10 @@ http://cloud-nany.cc:80/hyr3cf7/36387/1094
 http://cloud-nany.cc:80/hyr3cf7/36387/7907
 #EXTINF:0 tvg-logo="" group-title="TESTE",TNT SÉRIES
 http://cloud-nany.cc:80/hyr3cf7/36387/1092
-
-
+#EXTINF:0 tvg-logo="" group-title="TESTE",TLC
+http://blackuhd.co:80/ednardo/102030/5241
+#EXTINF:0 tvg-logo="" group-title="TESTE",TLC-2
+http://puhd.host:80/ANDREFERNANDES/Andrefernandes20/9250
 #EXTINF:0 tvg-logo="" group-title="TESTE",TOONCAST
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/33665
 #EXTINF:0 tvg-logo="" group-title="TESTE",TOONCAST-2
