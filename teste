@@ -20,3 +20,16 @@ http://cloud-nany.cc:80/hyr3cf7/36387/1094
 http://cloud-nany.cc:80/hyr3cf7/36387/7907
 #EXTINF:0 tvg-logo="" group-title="TESTE",TNT SÉRIES
 http://cloud-nany.cc:80/hyr3cf7/36387/1092
+
+
+
+#EXTINF:0 tvg-logo="" group-title="TESTE",SPACE FILMES
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/space_e6c3dd63_6e56baa35baa66375a4fcb972101f28819cefb77/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiMTM4LjM2LjAuNjIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODMuMC40MTAzLjExNiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA4NDgyMjAxO30%3D
+
+#EXTINF:0 tvg-logo="" group-title="TESTE",MTV
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/mtvsd/video.m3u8
+#EXTINF:0 tvg-logo="" group-title="TESTE",MULTISHOW
+https://geralorigin.eu-central-1.edge.mycdn.live/live/multishowhd/video.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="TESTE",TOONCAST
+http://puhd.host:80/ANDREFERNANDES/Andrefernandes20/9096
