@@ -35,8 +35,12 @@ http://khtro.com:25461/2b213644tz/51826rs/31582
 
 ##INFANTIS##
 
-#EXTINF:0 group-title="INFANTIS" tvg-logo="https://cdn.mitvstatic.com/channels/br_gloob_m.png",GLOOB
-http://meumd.com:80/8594060937/rqLHRK4K/54110
+#EXTINF:0 group-title="INFANTIS" tvg-logo="",GLOOBINHO
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/52607
+#EXTINF:0 group-title="INFANTIS" tvg-logo="https://cdn.mitvstatic.com/channels/br_gloob_m.png",GLOOB HD
+http://srv.p2phx.site:37001/mauro16/6hfkejm71/20910
+#EXTINF:0 group-title="INFANTIS" tvg-logo="https://cdn.mitvstatic.com/channels/br_gloob_m.png",GLOOB SD
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32768
 #EXTINF:0 group-title="INFANTIS" tvg-logo="",NICK JR
 http://khtro.com:25461/2b213644tz/51826rs/1113
 #EXTINF:0 group-title="INFANTIS" tvg-logo="",Nickelodeon
