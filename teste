@@ -1,121 +1,16 @@
 #EXTM3U
 
-
-
-
-#EXTINF:0 tvg-id="" tvg-name="TNT SERIES FHD" tvg-logo="" group-title="TESTE",TNT SERIES FHD
-http://needuhd.life:8080/Wagner/123456/108647
-#EXTINF:0 tvg-id="" tvg-name="TNT SERIES HD $" tvg-logo="" group-title="TESTE",TNT SERIES HD $
-http://needuhd.life:8080/Wagner/123456/108561
-#EXTINF:0 tvg-id="" tvg-name="tnt series sd" tvg-logo="" group-title="TESTE",tnt series sd
-http://needuhd.life:8080/Wagner/123456/108471
-#EXTINF:0 tvg-id="" tvg-name="TOONCAST HD $" tvg-logo="" group-title="TESTE",TOONCAST HD $
-http://needuhd.life:8080/Wagner/123456/108601
-#EXTINF:0 tvg-id="" tvg-name="tooncast sd $" tvg-logo="" group-title="TESTE",tooncast sd $
-http://needuhd.life:8080/Wagner/123456/108465
-#EXTINF:0 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://1.bp.blogspot.com/-X81PcYk1Bh4/Xk70kb6xZLI/AAAAAAAACHU/qwKEZ7lIBq0D1CVFISjLunD5_BSKoui1gCLcBGAsYHQ/s1600/tooncast.png" group-title="TESTE",TOONCAST HD
-http://needuhd.life:8080/Wagner/123456/85330
-#EXTINF:0 tvg-id="Tooncast HD [Alter]" tvg-name="TOONCAST SD" tvg-logo="https://1.bp.blogspot.com/-X81PcYk1Bh4/Xk70kb6xZLI/AAAAAAAACHU/qwKEZ7lIBq0D1CVFISjLunD5_BSKoui1gCLcBGAsYHQ/s1600/tooncast.png" group-title="TESTE",TOONCAST SD
-http://needuhd.life:8080/Wagner/123456/85331
-
-#EXTINF:0 tvg-id="" tvg-name="Turma da Mônica" tvg-logo="https://1.bp.blogspot.com/-wWb5nVC8H-Y/XoNTYXUCh1I/AAAAAAAACf8/Yj2SX_Eaa9gAbgPPw8sd-jtPHAvT54xJQCK4BGAYYCw/s320/va2syr7h.png" group-title="TESTE",Turma da Mônica
-http://needuhd.life:8080/Wagner/123456/109634
-#EXTINF:0 tvg-id="" tvg-name="Turma do Cristãozinho" tvg-logo="https://2.bp.blogspot.com/-_auOmLywDGs/XoO1Ate65YI/AAAAAAAAChE/-f-yHGEQksYL7edECjg7oh_itnSvzItrQCK4BGAYYCw/s320/xcrqp01d.png" group-title="TESTE",Turma do Cristãozinho
-http://needuhd.life:8080/Wagner/123456/109635
-#EXTINF:0 tvg-id="" tvg-name="Tutubarao" tvg-logo="https://lh3.googleusercontent.com/-jHaqw5-KoiI/X3CwMtX87qI/AAAAAAAAHIA/0wb_uiI3hdM4PAVsfrSaTQmY3l3v1tngQCLcBGAsYHQ/Tutubar%25C3%25A3o.png" group-title="TESTE",Tutubarao
-http://needuhd.life:8080/Wagner/123456/109652
-
-#EXTINF:0 tvg-id="" tvg-name="DISCOVERY CHANNEL HD $" tvg-logo="" group-title="TESTE",DISCOVERY CHANNEL HD $
-http://needuhd.life:8080/Wagner/123456/108585
-#EXTINF:0 tvg-id="" tvg-name="discovery channel sd $" tvg-logo="" group-title="TESTE",discovery channel sd $
-http://needuhd.life:8080/Wagner/123456/108432
-#EXTINF:0 tvg-id="" tvg-name="DISCOVERY H&H FHD $" tvg-logo="" group-title="TESTE",DISCOVERY H&H FHD $
-http://needuhd.life:8080/Wagner/123456/108325
-#EXTINF:0 tvg-id="" tvg-name="DISCOVERY H&H HD $" tvg-logo="" group-title="TESTE",DISCOVERY H&H HD $
-http://needuhd.life:8080/Wagner/123456/108586
-#EXTINF:0 tvg-id="" tvg-name="discovery h&h sd $" tvg-logo="" group-title="TESTE",discovery h&h sd $
-http://needuhd.life:8080/Wagner/123456/108433
-#EXTINF:0 tvg-id="" tvg-name="DISCOVERY KIDS FHD $" tvg-logo="" group-title="TESTE",DISCOVERY KIDS FHD $
-http://needuhd.life:8080/Wagner/123456/108299
-#EXTINF:0 tvg-id="" tvg-name="DISCOVERY KIDS HD $" tvg-logo="" group-title="TESTE",DISCOVERY KIDS HD $
-http://needuhd.life:8080/Wagner/123456/108525
-#EXTINF:0 tvg-id="" tvg-name="discovery kids sd $" tvg-logo="" group-title="TESTE",discovery kids sd $
-http://needuhd.life:8080/Wagner/123456/108434
-#EXTINF:0 tvg-id="" tvg-name="DISCOVERY SCIENCE FHD $" tvg-logo="" group-title="TESTE",DISCOVERY SCIENCE FHD $
-http://needuhd.life:8080/Wagner/123456/108316
-#EXTINF:0 tvg-id="" tvg-name="DISCOVERY SCIENCE HD $" tvg-logo="" group-title="TESTE",DISCOVERY SCIENCE HD $
-http://needuhd.life:8080/Wagner/123456/108587
-#EXTINF:0 tvg-id="" tvg-name="DISCOVERY THEATER FHD" tvg-logo="" group-title="TESTE",DISCOVERY THEATER FHD
-http://needuhd.life:8080/Wagner/123456/108298
-#EXTINF:0 tvg-id="" tvg-name="DISCOVERY THEATER FHD (LEG)" tvg-logo="" group-title="Canais | Legendados",DISCOVERY THEATER FHD (LEG)
-http://needuhd.life:8080/Wagner/123456/108779
-#EXTINF:0 tvg-id="" tvg-name="DISCOVERY THEATER HD $" tvg-logo="" group-title="TESTE",DISCOVERY THEATER HD $
-http://needuhd.life:8080/Wagner/123456/108588
-#EXTINF:0 tvg-id="" tvg-name="DISCOVERY THEATER HD (LEG)" tvg-logo="" group-title="Canais | Legendados",DISCOVERY THEATER HD (LEG)
-http://needuhd.life:8080/Wagner/123456/108780
-#EXTINF:0 tvg-id="" tvg-name="Discovery Turbo FHD  $" tvg-logo="" group-title="TESTE",Discovery Turbo FHD  $
-http://needuhd.life:8080/Wagner/123456/108272
-#EXTINF:0 tvg-id="" tvg-name="DISCOVERY TURBO HD $" tvg-logo="" group-title="TESTE",DISCOVERY TURBO HD $
-http://needuhd.life:8080/Wagner/123456/108526
-#EXTINF:0 tvg-id="" tvg-name="discovery turbo sd" tvg-logo="" group-title="TESTE",discovery turbo sd
-http://needuhd.life:8080/Wagner/123456/108514
-http://needuhd.life:8080/Wagner/123456/108733
-#EXTINF:0 tvg-id="" tvg-name="DISCOVERY WORLD HD $" tvg-logo="" group-title="TESTE",DISCOVERY WORLD HD $
-http://needuhd.life:8080/Wagner/123456/108589
-
-
-
-#EXTINF:0 tvg-id="Discovery Channel HD" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://1.bp.blogspot.com/-gO9KQOa5_VM/Xk70PmiUxFI/AAAAAAAACD0/bActYU1lpyUhbKJQrR-parzrrGHAVIEkgCLcBGAsYHQ/s1600/discoverychannel.png" group-title="TESTE",DISCOVERY CHANNEL FHD
-http://needuhd.life:8080/Wagner/123456/84876
-#EXTINF:0 tvg-id="Discovery Channel HD" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-gO9KQOa5_VM/Xk70PmiUxFI/AAAAAAAACD0/bActYU1lpyUhbKJQrR-parzrrGHAVIEkgCLcBGAsYHQ/s1600/discoverychannel.png" group-title="TESTE",DISCOVERY CHANNEL HD
-http://needuhd.life:8080/Wagner/123456/84877
-#EXTINF:0 tvg-id="Discovery Channel HD" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://1.bp.blogspot.com/-gO9KQOa5_VM/Xk70PmiUxFI/AAAAAAAACD0/bActYU1lpyUhbKJQrR-parzrrGHAVIEkgCLcBGAsYHQ/s1600/discoverychannel.png" group-title="TESTE",DISCOVERY CHANNEL SD
-http://needuhd.life:8080/Wagner/123456/84878
-#EXTINF:0 tvg-id="Discovery Home Health" tvg-name="DISCOVERY H&H FHD" tvg-logo="https://1.bp.blogspot.com/-rcT1Fa94uEY/Xk70QDg9_VI/AAAAAAAACD8/dx5QGsd5jY4q9mzoovf_KlUpuD56__JwQCLcBGAsYHQ/s1600/discoveryhomehealth.png" group-title="TESTE",DISCOVERY H&H FHD
-http://needuhd.life:8080/Wagner/123456/104607
-#EXTINF:0 tvg-id="Discovery Home Health" tvg-name="DISCOVERY H&H HD" tvg-logo="https://1.bp.blogspot.com/-rcT1Fa94uEY/Xk70QDg9_VI/AAAAAAAACD8/dx5QGsd5jY4q9mzoovf_KlUpuD56__JwQCLcBGAsYHQ/s1600/discoveryhomehealth.png" group-title="TESTE",DISCOVERY H&H HD
-http://needuhd.life:8080/Wagner/123456/104608
-#EXTINF:0 tvg-id="Discovery Home Health" tvg-name="DISCOVERY H&H SD" tvg-logo="https://1.bp.blogspot.com/-rcT1Fa94uEY/Xk70QDg9_VI/AAAAAAAACD8/dx5QGsd5jY4q9mzoovf_KlUpuD56__JwQCLcBGAsYHQ/s1600/discoveryhomehealth.png" group-title="TESTE",DISCOVERY H&H SD
-http://needuhd.life:8080/Wagner/123456/82463
-#EXTINF:0 tvg-id="Discovery Kids HD" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://1.bp.blogspot.com/-2AIyN1vVYJ4/Xk70P2tZPSI/AAAAAAAACD4/dB9uQ47TzcAMEu4qJU-lYcaBoscJWYKhgCLcBGAsYHQ/s1600/discoverykids.png" group-title="TESTE",DISCOVERY KIDS FHD
-http://needuhd.life:8080/Wagner/123456/85301
-#EXTINF:0 tvg-id="Discovery Kids HD" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://1.bp.blogspot.com/-2AIyN1vVYJ4/Xk70P2tZPSI/AAAAAAAACD4/dB9uQ47TzcAMEu4qJU-lYcaBoscJWYKhgCLcBGAsYHQ/s1600/discoverykids.png" group-title="TESTE",DISCOVERY KIDS HD
-http://needuhd.life:8080/Wagner/123456/85302
-#EXTINF:0 tvg-id="Discovery Science HD" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://1.bp.blogspot.com/-Nn1tKtDj6sY/Xk70QqLw0DI/AAAAAAAACEA/0RwNd0pPQzsv-qwLGMcUIBRCgLK-Vs50ACLcBGAsYHQ/s1600/discoveryscience.png" group-title="TESTE",DISCOVERY SCIENCE FHD
-http://needuhd.life:8080/Wagner/123456/84881
-#EXTINF:0 tvg-id="Discovery Science HD" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://1.bp.blogspot.com/-Nn1tKtDj6sY/Xk70QqLw0DI/AAAAAAAACEA/0RwNd0pPQzsv-qwLGMcUIBRCgLK-Vs50ACLcBGAsYHQ/s1600/discoveryscience.png" group-title="TESTE",DISCOVERY SCIENCE HD
-http://needuhd.life:8080/Wagner/123456/84882
-#EXTINF:0 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://1.bp.blogspot.com/-Nn1tKtDj6sY/Xk70QqLw0DI/AAAAAAAACEA/0RwNd0pPQzsv-qwLGMcUIBRCgLK-Vs50ACLcBGAsYHQ/s1600/discoveryscience.png" group-title="TESTE",DISCOVERY SCIENCE SD
-http://needuhd.life:8080/Wagner/123456/84883
-#EXTINF:0 tvg-id="Discovery Theater HD" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://1.bp.blogspot.com/-zmhzL_q8BuE/Xk70Q4GLrTI/AAAAAAAACEE/5VO8WJ7wWMAq17Ha1OP0hbtgrqoF1vFrQCLcBGAsYHQ/s1600/discoverytheater.png" group-title="TESTE",DISCOVERY THEATER FHD
-http://needuhd.life:8080/Wagner/123456/84884
-#EXTINF:0 tvg-id="Discovery Theater HD" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://1.bp.blogspot.com/-zmhzL_q8BuE/Xk70Q4GLrTI/AAAAAAAACEE/5VO8WJ7wWMAq17Ha1OP0hbtgrqoF1vFrQCLcBGAsYHQ/s1600/discoverytheater.png" group-title="TESTE",DISCOVERY THEATER HD
-http://needuhd.life:8080/Wagner/123456/84885
-#EXTINF:0 tvg-id="Discovery Theater HD" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://1.bp.blogspot.com/-zmhzL_q8BuE/Xk70Q4GLrTI/AAAAAAAACEE/5VO8WJ7wWMAq17Ha1OP0hbtgrqoF1vFrQCLcBGAsYHQ/s1600/discoverytheater.png" group-title="TESTE",DISCOVERY THEATER SD
-http://needuhd.life:8080/Wagner/123456/84886
-#EXTINF:0 tvg-id="TLC" tvg-name="DISCOVERY TLC FHD" tvg-logo="https://2.bp.blogspot.com/-kIUVI9_YPPE/XmP60ycdyPI/AAAAAAAACPY/r6d1IMJFvDQsE-Il4Cic1BnuJN47QvI0ACK4BGAYYCw/s400/TLC.png" group-title="TESTE",DISCOVERY TLC FHD
-http://needuhd.life:8080/Wagner/123456/84887
-#EXTINF:0 tvg-id="TLC" tvg-name="DISCOVERY TLC HD" tvg-logo="https://2.bp.blogspot.com/-kIUVI9_YPPE/XmP60ycdyPI/AAAAAAAACPY/r6d1IMJFvDQsE-Il4Cic1BnuJN47QvI0ACK4BGAYYCw/s400/TLC.png" group-title="TESTE",DISCOVERY TLC HD
-http://needuhd.life:8080/Wagner/123456/84888
-#EXTINF:0 tvg-id="TLC" tvg-name="DISCOVERY TLC SD" tvg-logo="https://4.bp.blogspot.com/-pkhwk3sCDcA/XmRPXw6eTII/AAAAAAAACUY/m7bS_xJ-4w0Glc2R7wVro-mxpLtsXhz8QCK4BGAYYCw/s400/TLC.png" group-title="TESTE",DISCOVERY TLC SD
-http://needuhd.life:8080/Wagner/123456/84889
-#EXTINF:0 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://1.bp.blogspot.com/--Gnd1cKRE40/Xk70Rq5scQI/AAAAAAAACEI/zJ6OQb7ctNUtUrNztpfVTBOevy9BVW6fwCLcBGAsYHQ/s1600/discoveryturbo.png" group-title="TESTE",DISCOVERY TURBO FHD
-http://needuhd.life:8080/Wagner/123456/84890
-#EXTINF:0 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://1.bp.blogspot.com/--Gnd1cKRE40/Xk70Rq5scQI/AAAAAAAACEI/zJ6OQb7ctNUtUrNztpfVTBOevy9BVW6fwCLcBGAsYHQ/s1600/discoveryturbo.png" group-title="TESTE",DISCOVERY TURBO HD
-http://needuhd.life:8080/Wagner/123456/84891
-#EXTINF:0 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://1.bp.blogspot.com/--Gnd1cKRE40/Xk70Rq5scQI/AAAAAAAACEI/zJ6OQb7ctNUtUrNztpfVTBOevy9BVW6fwCLcBGAsYHQ/s1600/discoveryturbo.png" group-title="TESTE",DISCOVERY TURBO SD
-http://needuhd.life:8080/Wagner/123456/84892
-#EXTINF:0 tvg-id="Discovery World HD" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://1.bp.blogspot.com/-nb1EQ-vyLXg/Xk70RwCpZSI/AAAAAAAACEM/6W2YKWTTrLEyrgWbh52Q7ixjjsGSlWnhgCLcBGAsYHQ/s1600/discoveryworld.png" group-title="TESTE",DISCOVERY WORLD FHD
-http://needuhd.life:8080/Wagner/123456/84893
-#EXTINF:0 tvg-id="Discovery World HD" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://1.bp.blogspot.com/-nb1EQ-vyLXg/Xk70RwCpZSI/AAAAAAAACEM/6W2YKWTTrLEyrgWbh52Q7ixjjsGSlWnhgCLcBGAsYHQ/s1600/discoveryworld.png" group-title="TESTE",DISCOVERY WORLD HD
-http://needuhd.life:8080/Wagner/123456/84894
-#EXTINF:0 tvg-id="Discovery World HD" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://1.bp.blogspot.com/-nb1EQ-vyLXg/Xk70RwCpZSI/AAAAAAAACEM/6W2YKWTTrLEyrgWbh52Q7ixjjsGSlWnhgCLcBGAsYHQ/s1600/discoveryworld.png" group-title="TESTE",DISCOVERY WORLD SD
-http://needuhd.life:8080/Wagner/123456/84895
-
-
-#EXTINF:0 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV  SD" tvg-logo="https://1.bp.blogspot.com/-BXGlMOVHnMs/Xk8rh1-AnnI/AAAAAAAACIk/f8OG9cGj4usH-PydVM-T9P7c1t5PFWjdQCK4BGAYYCw/s1600/HGTV.png" group-title="TESTE",HGTV  SD
-http://needuhd.life:8080/Wagner/123456/84902
-#EXTINF:0 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHD" tvg-logo="https://1.bp.blogspot.com/-BXGlMOVHnMs/Xk8rh1-AnnI/AAAAAAAACIk/f8OG9cGj4usH-PydVM-T9P7c1t5PFWjdQCK4BGAYYCw/s400/HGTV.png" group-title="TESTE",HGTV FHD
-http://needuhd.life:8080/Wagner/123456/84903
-#EXTINF:0 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD" tvg-logo="https://1.bp.blogspot.com/-BXGlMOVHnMs/Xk8rh1-AnnI/AAAAAAAACIk/f8OG9cGj4usH-PydVM-T9P7c1t5PFWjdQCK4BGAYYCw/s400/HGTV.png" group-title="TESTE",HGTV HD
-http://needuhd.life:8080/Wagner/123456/84904
+#EXTINF:0 tvg-logo="" group-title="TESTE",DISC
+http://cloud-nany.cc:80/hyr3cf7/36387/8099
+#EXTINF:0 tvg-logo="" group-title="TESTE",DISC HeH
+http://cloud-nany.cc:80/hyr3cf7/36387/1048
+#EXTINF:0 tvg-logo="" group-title="TESTE",DISC SCI
+http://cloud-nany.cc:80/hyr3cf7/36387/1244
+#EXTINF:0 tvg-logo="" group-title="TESTE",DISC SCI-2
+http://cloud-nany.cc:80/hyr3cf7/36387/8105
+#EXTINF:0 tvg-logo="" group-title="TESTE",DISC TEATRO
+http://cloud-nany.cc:80/hyr3cf7/36387/1047
+#EXTINF:0 tvg-logo="" group-title="TESTE",DISC TURBO
+http://cloud-nany.cc:80/hyr3cf7/36387/1046
+#EXTINF:0 tvg-logo="" group-title="TESTE",DISC CHAN
+http://cloud-nany.cc:80/hyr3cf7/36387/1049
