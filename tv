@@ -281,43 +281,6 @@ http://sv1.myiptv4k.top:8080/carlos/102030/3685
 
 ##CINE SKY & PIPOCA##
 
-#EXTINF:0 group-title="CINE SKY & PIPOCA" tvg-logo="LOGO",Cine Pipoca 1
-http://sv1.myiptv4k.top:8080/carlos/102030/19382
-#EXTINF:0 group-title="CINE SKY & PIPOCA" tvg-logo="LOGO",Cine Pipoca 10
-http://sv1.myiptv4k.top:8080/carlos/102030/19391
-#EXTINF:0 group-title="CINE SKY & PIPOCA" tvg-logo="LOGO",Cine Pipoca 2
-http://sv1.myiptv4k.top:8080/carlos/102030/19383
-#EXTINF:0 group-title="CINE SKY & PIPOCA" tvg-logo="LOGO",Cine Pipoca 3
-http://sv1.myiptv4k.top:8080/carlos/102030/19384
-#EXTINF:0 group-title="CINE SKY & PIPOCA" tvg-logo="LOGO",Cine Pipoca 5
-http://sv1.myiptv4k.top:8080/carlos/102030/19386
-#EXTINF:0 group-title="CINE SKY & PIPOCA" tvg-logo="LOGO",Cine Pipoca 6
-http://sv1.myiptv4k.top:8080/carlos/102030/19387
-#EXTINF:0 group-title="CINE SKY & PIPOCA" tvg-logo="LOGO",Cine PIpoca 7
-http://sv1.myiptv4k.top:8080/carlos/102030/19388
-#EXTINF:0 group-title="CINE SKY & PIPOCA" tvg-logo="LOGO",Cine Pipoca 8
-http://sv1.myiptv4k.top:8080/carlos/102030/19389
-#EXTINF:0 group-title="CINE SKY & PIPOCA" tvg-logo="LOGO",Cine Pipoca 9
-http://sv1.myiptv4k.top:8080/carlos/102030/19390
-#EXTINF:0 group-title="CINE SKY & PIPOCA" tvg-logo="LOGO",CINE SKY 01 HD
-http://sv1.myiptv4k.top:8080/carlos/
-#EXTINF:0 group-title="CINE SKY & PIPOCA" tvg-logo="LOGO",CINE SKY 02 HD
-http://sv1.myiptv4k.top:8080/carlos/102030/19067
-#EXTINF:0 group-title="CINE SKY & PIPOCA" tvg-logo="LOGO",CINE SKY 03 HD
-http://sv1.myiptv4k.top:8080/carlos/102030/19068
-#EXTINF:0 group-title="CINE SKY & PIPOCA" tvg-logo="LOGO",CINE SKY 04 HD
-http://sv1.myiptv4k.top:8080/carlos/102030/19069
-#EXTINF:0 group-title="CINE SKY & PIPOCA" tvg-logo="LOGO",CINE SKY 05 HD
-http://sv1.myiptv4k.top:8080/carlos/102030/19070
-#EXTINF:0 group-title="CINE SKY & PIPOCA" tvg-logo="LOGO",CINE SKY 06 HD
-http://sv1.myiptv4k.top:8080/carlos/102030/19071
-#EXTINF:0 group-title="CINE SKY & PIPOCA" tvg-logo="LOGO",CINE SKY 07 HD
-http://sv1.myiptv4k.top:8080/carlos/102030/19072
-#EXTINF:0 group-title="CINE SKY & PIPOCA" tvg-logo="LOGO",CINE SKY 08 HD
-http://sv1.myiptv4k.top:8080/carlos/102030/19073
-#EXTINF:0 group-title="CINE SKY & PIPOCA" tvg-logo="LOGO",CINE SKY 09 HD
-http://sv1.myiptv4k.top:8080/carlos/102030/19074
-
 ##VARIADOS FECHADOS##
 
 #EXTINF:0 group-title="VARIADOS FECHADOS" tvg-logo="LOGO",VIVA
