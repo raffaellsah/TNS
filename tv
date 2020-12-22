@@ -1,5 +1,42 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="https://thumbmedia.net/wp-content/uploads/2018/04/FOX.jpg" group-title="TESTE",FOX LIFE
+http://stream.angels.red:80/539058/3c0ecb/44683
+
+#EXTINF:0 tvg-logo="https://thumbmedia.net/wp-content/uploads/2018/04/FOX.jpg" group-title="TESTE",FOX PREMIUM 1
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxpremiumsd/video.m3u8
+
+#EXTINF:0 tvg-logo="https://thumbmedia.net/wp-content/uploads/2018/04/FOX.jpg" group-title="TESTE",FOX PREMIUM 1 - 2
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/axfly5ghnoiob0.m3u8?s=r9eDj8IFY1GoO5oQznN0FQ&e=1608695505
+
+#EXTINF:0 tvg-logo="https://thumbmedia.net/wp-content/uploads/2018/04/FOX.jpg" group-title="TESTE",FOX PREMIUM 2
+http://blackuhd.co:80/ednardo/102030/5083
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-SMee5n8zmFw/XWxvCb1gwxI/AAAAAAABZO4/gx-AER1ND8c5_6bgNpADnVt-EB98GPv5wCLcBGAs/s1600/Telecine_ouniversodatv.jpg" group-title="TESTE",TC ACTION
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32426
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-SMee5n8zmFw/XWxvCb1gwxI/AAAAAAABZO4/gx-AER1ND8c5_6bgNpADnVt-EB98GPv5wCLcBGAs/s1600/Telecine_ouniversodatv.jpg" group-title="TESTE",TC CULT
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32414
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-SMee5n8zmFw/XWxvCb1gwxI/AAAAAAABZO4/gx-AER1ND8c5_6bgNpADnVt-EB98GPv5wCLcBGAs/s1600/Telecine_ouniversodatv.jpg" group-title="TESTE",TC FUN
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32406
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-SMee5n8zmFw/XWxvCb1gwxI/AAAAAAABZO4/gx-AER1ND8c5_6bgNpADnVt-EB98GPv5wCLcBGAs/s1600/Telecine_ouniversodatv.jpg" group-title="TESTE",TC PIPOCA
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32399
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-SMee5n8zmFw/XWxvCb1gwxI/AAAAAAABZO4/gx-AER1ND8c5_6bgNpADnVt-EB98GPv5wCLcBGAs/s1600/Telecine_ouniversodatv.jpg" group-title="TESTE",TC PREMIUM
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32386
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-SMee5n8zmFw/XWxvCb1gwxI/AAAAAAABZO4/gx-AER1ND8c5_6bgNpADnVt-EB98GPv5wCLcBGAs/s1600/Telecine_ouniversodatv.jpg" group-title="TESTE",TC TOUCH
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32370
+#EXTINF:0 tvg-logo="https://i.mycdn.me/image?id=893774667122&t=0&plc=MOBILE&tkn=*bq-yBCz2ne78FyQrQ9mT-s6h4Og" group-title="TESTE",1HD MUSIC
+http://khtro.com:25461/2b213644tz/51826rs/35414
+#EXTINF:0 tvg-logo="https://www.tvmap.com.br/Images/ch/597.jpg" group-title="TESTE",MUSIC BOX BRASIL
+http://meumd.com:80/8594060937/rqLHRK4K/43366
+#EXTINF:0 tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png" group-title="TESTE",COMEDY CENTRAL
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/comedycentral_17037754_1e9b2882833217fee3d26a9090b3c2fae8b358dc/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiMTM4LjM2LjAuNjIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODMuMC40MTAzLjExNiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA4Njc1NzU5O30%3D
+#EXTINF:0 tvg-logo="https://variety.com/wp-content/uploads/2014/04/warnertv-logo.jpg?w=1000" group-title="TESTE",WARNER CHANNEL
+http://blackuhd.co:80/ednardo/102030/5051
 #EXTINF:0 tvg-logo="https://decider.com/wp-content/uploads/2017/08/hbo-2.jpg?quality=90&strip=all&w=646&h=431&crop=1" group-title="TESTE",HBO
 http://cloud-nany.cc:80/hyr3cf7/36387/7164
 #EXTINF:0 tvg-logo="https://decider.com/wp-content/uploads/2017/08/hbo-2.jpg?quality=90&strip=all&w=646&h=431&crop=1" group-title="TESTE",HBO-2
@@ -351,14 +388,10 @@ http://sv1.myiptv4k.top:8080/carlos/102030/11246
 http://sv1.myiptv4k.top:8080/carlos/102030/3433
 #EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",Film & Arts
 http://sv1.myiptv4k.top:8080/carlos/102030/3652
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",DISCOVERY CIVILIZATION
-http://sv1.myiptv4k.top:8080/carlos/102030/3725
 #EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",GNT
 http://rec2.distv.net:80/jeremias/123456/469
 #EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",H2
 http://rec2.distv.net:80/jeremias/123456/480
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",ZOOMOO
-http://rec2.distv.net:80/jeremias/123456/53
 ##EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",TRAVEL BOX
 http://rec2.distv.net:80/jeremias/123456/524
 #EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",TV BRASIL
@@ -379,8 +412,7 @@ http://rec2.distv.net:80/jeremias/123456/482
 http://rec2.distv.net:80/jeremias/123456/483
 #EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",CULTURA HD
 http://sv1.myiptv4k.top:8080/carlos/102030/3779
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",Cultura Pará
-http://sv1.myiptv4k.top:8080/carlos/102030/17753
+
 #EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",DISCOVERY SCIENCE
 http://sv1.myiptv4k.top:8080/carlos/102030/3727
 #EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",DISCOVERY CHANNEL
@@ -389,6 +421,8 @@ http://sv1.myiptv4k.top:8080/carlos/102030/3683
 http://sv1.myiptv4k.top:8080/carlos/102030/3682
 #EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",DISCOVERY CIVILIZATION HD
 http://sv1.myiptv4k.top:8080/carlos/102030/6788
+#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",DISCOVERY CIVILIZATION
+http://sv1.myiptv4k.top:8080/carlos/102030/3725
 #EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",DISCOVERY HOME & HEALTH HD
 http://sv1.myiptv4k.top:8080/carlos/102030/3781
 #EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",DISCOVERY SCIENCE HD
@@ -420,8 +454,6 @@ http://sv1.myiptv4k.top:8080/carlos/102030/6852
 
 ##Educativo##
 
-#EXTINF:0 group-title="EDUCATIVO" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Cultura Pará
-http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8?IMDSFULL
 #EXTINF:0 group-title="EDUCATIVO" 
 tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Educativa de Porto Alegre
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?IMDSFULL
@@ -431,7 +463,7 @@ https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunkl
 https://59f1cbe63db89.streamlock.net:1443/tvcrio/_definst_/tvcrio/chunklist_w485313780.m3u8?IMDSFULL
 #EXTINF:0 group-title="EDUCATIVO" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_110
 http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?IMDSFULL
-#EXTINF:0 group-title="EDUCATIVO" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_20
+#EXTINF:0 group-title="EDUCATIVO" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV CULTURA
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8?IMDSFULL
 #EXTINF:0 group-title="EDUCATIVO" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_110
 http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?IMDSFULL
