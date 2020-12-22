@@ -28,16 +28,18 @@ http://cloud-nany.cc:80/hyr3cf7/36387/1047
 http://cloud-nany.cc:80/hyr3cf7/36387/1046
 #EXTINF:0 tvg-logo="https://tdias.files.wordpress.com/2007/06/diiiiiscovery.jpg" group-title="TESTE",DISCOVERY CHANNEL
 http://cloud-nany.cc:80/hyr3cf7/36387/1049
-#EXTINF:0 tvg-logo="" group-title="TESTE",TNT 
+#EXTINF:0 tvg-logo="https://www.vpnfan.com/wp-content/uploads/2020/07/tnt-logo.jpg" group-title="TESTE",TNT 
 http://cloud-nany.cc:80/hyr3cf7/36387/1094
-#EXTINF:0 tvg-logo="" group-title="TESTE",TNT-2
+#EXTINF:0 tvg-logo="https://www.vpnfan.com/wp-content/uploads/2020/07/tnt-logo.jpg" group-title="TESTE",TNT-2
 http://cloud-nany.cc:80/hyr3cf7/36387/7907
-#EXTINF:0 tvg-logo="" group-title="TESTE",TNT SÉRIES
+#EXTINF:0 tvg-logo="https://www.vpnfan.com/wp-content/uploads/2020/07/tnt-logo.jpg" group-title="TESTE",TNT SÉRIES
 http://cloud-nany.cc:80/hyr3cf7/36387/1092
-#EXTINF:0 tvg-logo="" group-title="TESTE",TLC
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Tlc_logo_discovery.jpg" group-title="TESTE",TLC
 http://blackuhd.co:80/ednardo/102030/5241
-#EXTINF:0 tvg-logo="" group-title="TESTE",MTV LIVE
+#EXTINF:0 tvg-logo="https://vevmo.com/sites/default/files/upload/MTV-Logo-300x238.jpg" group-title="TESTE",MTV LIVE
 http://stream.angels.red:80/539058/3c0ecb/2812
+
+##24 HORAS##
 
 #EXTINF:0 group-title="CANAIS 24hrs" tvg-logo="http://blog.tribunadonorte.com.br/agitosebaladas/files/2014/09/amigaozao-1-300x225.jpg",AMIGAOZÃO
 http://khtro.com:25461/2b213644tz/51826rs/31582
