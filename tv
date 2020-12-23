@@ -1,78 +1,86 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://thumbmedia.net/wp-content/uploads/2018/04/FOX.jpg" group-title="TESTE",FOX LIFE
-http://stream.angels.red:80/539058/3c0ecb/44683
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",Cine Pipoca 01
+http://boxiptv.club:8080/wilson/123456/145698
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",Cine Pipoca 02
+http://boxiptv.club:8080/wilson/123456/145702
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 01
+http://boxiptv.club:8080/wilson/123456/145674
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 02
+http://boxiptv.club:8080/wilson/123456/145675
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 03
+http://boxiptv.club:8080/wilson/123456/145676
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 04
+http://boxiptv.club:8080/wilson/123456/145677
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 05
+http://boxiptv.club:8080/wilson/123456/145678
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 06
+http://boxiptv.club:8080/wilson/123456/145679
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 07
+http://boxiptv.club:8080/wilson/123456/145680
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 08
+http://boxiptv.club:8080/wilson/123456/145681
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 09
+http://boxiptv.club:8080/wilson/123456/145682
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 10
 
-#EXTINF:0 tvg-logo="https://thumbmedia.net/wp-content/uploads/2018/04/FOX.jpg" group-title="TESTE",FOX PREMIUM 1
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxpremiumsd/video.m3u8
 
-#EXTINF:0 tvg-logo="https://thumbmedia.net/wp-content/uploads/2018/04/FOX.jpg" group-title="TESTE",FOX PREMIUM 1 - 2
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/axfly5ghnoiob0.m3u8?s=r9eDj8IFY1GoO5oQznN0FQ&e=1608695505
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",Syfy HD
+http://boxiptv.club:8080/wilson/123456/145626
 
-#EXTINF:0 tvg-logo="https://thumbmedia.net/wp-content/uploads/2018/04/FOX.jpg" group-title="TESTE",FOX PREMIUM 2
-http://blackuhd.co:80/ednardo/102030/5083
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-SMee5n8zmFw/XWxvCb1gwxI/AAAAAAABZO4/gx-AER1ND8c5_6bgNpADnVt-EB98GPv5wCLcBGAs/s1600/Telecine_ouniversodatv.jpg" group-title="TESTE",TC ACTION
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/32426
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",TBS
+http://boxiptv.club:8080/wilson/123456/145628
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",TBS HD
+http://boxiptv.club:8080/wilson/123456/145629
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-SMee5n8zmFw/XWxvCb1gwxI/AAAAAAABZO4/gx-AER1ND8c5_6bgNpADnVt-EB98GPv5wCLcBGAs/s1600/Telecine_ouniversodatv.jpg" group-title="TESTE",TC CULT
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/32414
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",TCM HD
+http://boxiptv.club:8080/wilson/123456/145630
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",TCM SD
+http://boxiptv.club:8080/wilson/123456/145631
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-SMee5n8zmFw/XWxvCb1gwxI/AAAAAAABZO4/gx-AER1ND8c5_6bgNpADnVt-EB98GPv5wCLcBGAs/s1600/Telecine_ouniversodatv.jpg" group-title="TESTE",TC FUN
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/32406
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-SMee5n8zmFw/XWxvCb1gwxI/AAAAAAABZO4/gx-AER1ND8c5_6bgNpADnVt-EB98GPv5wCLcBGAs/s1600/Telecine_ouniversodatv.jpg" group-title="TESTE",TC PIPOCA
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/32399
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Action HD
+http://boxiptv.club:8080/wilson/123456/145640
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",TELECINE ACTION SD
+http://boxiptv.club:8080/wilson/123456/145641
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-SMee5n8zmFw/XWxvCb1gwxI/AAAAAAABZO4/gx-AER1ND8c5_6bgNpADnVt-EB98GPv5wCLcBGAs/s1600/Telecine_ouniversodatv.jpg" group-title="TESTE",TC PREMIUM
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/32386
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-SMee5n8zmFw/XWxvCb1gwxI/AAAAAAABZO4/gx-AER1ND8c5_6bgNpADnVt-EB98GPv5wCLcBGAs/s1600/Telecine_ouniversodatv.jpg" group-title="TESTE",TC TOUCH
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/32370
-#EXTINF:0 tvg-logo="https://i.mycdn.me/image?id=893774667122&t=0&plc=MOBILE&tkn=*bq-yBCz2ne78FyQrQ9mT-s6h4Og" group-title="TESTE",1HD MUSIC
-http://khtro.com:25461/2b213644tz/51826rs/35414
-#EXTINF:0 tvg-logo="https://www.tvmap.com.br/Images/ch/597.jpg" group-title="TESTE",MUSIC BOX BRASIL
-http://meumd.com:80/8594060937/rqLHRK4K/43366
-#EXTINF:0 tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png" group-title="TESTE",COMEDY CENTRAL
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/comedycentral_17037754_1e9b2882833217fee3d26a9090b3c2fae8b358dc/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiMTM4LjM2LjAuNjIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODMuMC40MTAzLjExNiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA4Njc1NzU5O30%3D
-#EXTINF:0 tvg-logo="https://variety.com/wp-content/uploads/2014/04/warnertv-logo.jpg?w=1000" group-title="TESTE",WARNER CHANNEL
-http://blackuhd.co:80/ednardo/102030/5051
-#EXTINF:0 tvg-logo="https://decider.com/wp-content/uploads/2017/08/hbo-2.jpg?quality=90&strip=all&w=646&h=431&crop=1" group-title="TESTE",HBO
-http://cloud-nany.cc:80/hyr3cf7/36387/7164
-#EXTINF:0 tvg-logo="https://decider.com/wp-content/uploads/2017/08/hbo-2.jpg?quality=90&strip=all&w=646&h=431&crop=1" group-title="TESTE",HBO-2
-http://cloud-nany.cc:80/hyr3cf7/36387/7169
-#EXTINF:0 tvg-logo="https://decider.com/wp-content/uploads/2017/08/hbo-2.jpg?quality=90&strip=all&w=646&h=431&crop=1" group-title="TESTE",HBO FAMILY
-http://cloud-nany.cc:80/hyr3cf7/36387/1034
-#EXTINF:0 tvg-logo="https://decider.com/wp-content/uploads/2017/08/hbo-2.jpg?quality=90&strip=all&w=646&h=431&crop=1" group-title="TESTE",HBO PLUS
-http://cloud-nany.cc:80/hyr3cf7/36387/8011
-#EXTINF:0 tvg-logo="https://decider.com/wp-content/uploads/2017/08/hbo-2.jpg?quality=90&strip=all&w=646&h=431&crop=1" group-title="TESTE",HBO SIGNATURE
-http://cloud-nany.cc:80/hyr3cf7/36387/1182
-#EXTINF:0 tvg-logo="https://decider.com/wp-content/uploads/2017/08/hbo-2.jpg?quality=90&strip=all&w=646&h=431&crop=1" group-title="TESTE",HBO MUNDI
-http://cloud-nany.cc:80/hyr3cf7/36387/1178
-#EXTINF:0 tvg-logo="https://decider.com/wp-content/uploads/2017/08/hbo-2.jpg?quality=90&strip=all&w=646&h=431&crop=1" group-title="TESTE",HBO POP*
-http://cloud-nany.cc:80/hyr3cf7/36387/7993
-#EXTINF:0 tvg-logo="https://tdias.files.wordpress.com/2007/06/diiiiiscovery.jpg" group-title="TESTE",DISCOVERY
-http://cloud-nany.cc:80/hyr3cf7/36387/8099
-#EXTINF:0 tvg-logo="https://tdias.files.wordpress.com/2007/06/diiiiiscovery.jpg" group-title="TESTE",DISCOVERY HOME & HEALTH
-http://cloud-nany.cc:80/hyr3cf7/36387/1048
-#EXTINF:0 tvg-logo="https://tdias.files.wordpress.com/2007/06/diiiiiscovery.jpg" group-title="TESTE",DISCOVERY SCIENCE
-http://cloud-nany.cc:80/hyr3cf7/36387/1244
-#EXTINF:0 tvg-logo="https://tdias.files.wordpress.com/2007/06/diiiiiscovery.jpg" group-title="TESTE",DISCOVERY SCIENCE-2
-http://cloud-nany.cc:80/hyr3cf7/36387/8105
-#EXTINF:0 tvg-logo="https://tdias.files.wordpress.com/2007/06/diiiiiscovery.jpg" group-title="TESTE",DISCOVERY TEATRO
-http://cloud-nany.cc:80/hyr3cf7/36387/1047
-#EXTINF:0 tvg-logo="https://tdias.files.wordpress.com/2007/06/diiiiiscovery.jpg" group-title="TESTE",DISCOVERY TURBO
-http://cloud-nany.cc:80/hyr3cf7/36387/1046
-#EXTINF:0 tvg-logo="https://tdias.files.wordpress.com/2007/06/diiiiiscovery.jpg" group-title="TESTE",DISCOVERY CHANNEL
-http://cloud-nany.cc:80/hyr3cf7/36387/1049
-#EXTINF:0 tvg-logo="https://www.vpnfan.com/wp-content/uploads/2020/07/tnt-logo.jpg" group-title="TESTE",TNT 
-http://cloud-nany.cc:80/hyr3cf7/36387/1094
-#EXTINF:0 tvg-logo="https://www.vpnfan.com/wp-content/uploads/2020/07/tnt-logo.jpg" group-title="TESTE",TNT-2
-http://cloud-nany.cc:80/hyr3cf7/36387/7907
-#EXTINF:0 tvg-logo="https://www.vpnfan.com/wp-content/uploads/2020/07/tnt-logo.jpg" group-title="TESTE",TNT SÉRIES
-http://cloud-nany.cc:80/hyr3cf7/36387/1092
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Tlc_logo_discovery.jpg" group-title="TESTE",TLC
-http://blackuhd.co:80/ednardo/102030/5241
-#EXTINF:0 tvg-logo="https://vevmo.com/sites/default/files/upload/MTV-Logo-300x238.jpg" group-title="TESTE",MTV LIVE
-http://stream.angels.red:80/539058/3c0ecb/2812
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",TELECINE CULT SD
+http://boxiptv.club:8080/wilson/123456/145643
+
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",TELECINE FUN HD
+http://boxiptv.club:8080/wilson/123456/145644
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Fun SD
+http://boxiptv.club:8080/wilson/123456/145645
+
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Pipoca HD
+http://boxiptv.club:8080/wilson/123456/145646
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Pipoca SD
+http://boxiptv.club:8080/wilson/123456/145647
+
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",TELECINE TOUCH HD
+http://boxiptv.club:8080/wilson/123456/145650
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Touch SD
+http://boxiptv.club:8080/wilson/123456/145651
+
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",TLC HD
+http://boxiptv.club:8080/wilson/123456/145593
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",TLC SD
+http://boxiptv.club:8080/wilson/123456/145594
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",TNT HD
+http://boxiptv.club:8080/wilson/123456/145632
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",TNT SD
+http://boxiptv.club:8080/wilson/123456/145633
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",TNT Series HD
+http://boxiptv.club:8080/wilson/123456/145634
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",TNT SERIES SD
+http://boxiptv.club:8080/wilson/123456/145635
+
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",Tooncast FHD
+http://boxiptv.club:8080/wilson/123456/145397
+
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",Travel Box Brazil HD
+http://boxiptv.club:8080/wilson/123456/145556
+
 
 ##24hrs##
 
@@ -105,16 +113,14 @@ http://khtro.com:25461/2b213644tz/51826rs/1113
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/32622
 #EXTINF:0 group-title="INFANTIS" tvg-logo="",NATGEO KIDS
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/32645
-#EXTINF:0 group-title="INFANTIS" tvg-logo="http://scontent-for1-1.xx.fbcdn.net/v/t1.0-9/77284168_10157354644863300_190452520785543168_n.jpg?_nc_cat=110&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeE4qa-Uhwby47KN63WFzQfhkDqwIWFJCCqQOrAhYUkIKl46xYht7EtxihINf6LlgqfXEIc7xu1uhe6eEQXj8jmd&_nc_ohc=VnqHql9ssgkAX_GgL-A&_nc_ht=scontent-for1-1.xx&oh=264393bd8dc79362b1b692b2a9fa9247&oe=60052BFD",CARTOON NETWORK HD
+#EXTINF:0 group-title="INFANTIS" tvg-logo="http://scontent-for1-1.xx.fbcdn.net/v/t1.0-9/77284168_10157354644863300_190452520785543168_n.jpg?_nc_cat=110&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeE4qa-Uhwby47KN63WFzQfhkDqwIWFJCCqQOrAhYUkIKl46xYht7EtxihINf6LlgqfXEIc7xu1uhe6eEQXj8jmd&_nc_ohc=VnqHql9ssgkAX_GgL-A&_nc_ht=scontent-for1-1.xx&oh=264393bd8dc79362b1b692b2a9fa9247&oe=60052BFD",CARNETWORK HD
 http://cloud-nany.cc:80/hyr3cf7/36387/24205
 #EXTINF:0 group-title="INFANTIS" tvg-logo="http://scontent-for1-1.xx.fbcdn.net/v/t1.0-9/77284168_10157354644863300_190452520785543168_n.jpg?_nc_cat=110&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeE4qa-Uhwby47KN63WFzQfhkDqwIWFJCCqQOrAhYUkIKl46xYht7EtxihINf6LlgqfXEIc7xu1uhe6eEQXj8jmd&_nc_ohc=VnqHql9ssgkAX_GgL-A&_nc_ht=scontent-for1-1.xx&oh=264393bd8dc79362b1b692b2a9fa9247&oe=60052BFD",CARTOON NETWORK SD
 http://blackuhd.co:80/ednardo/102030/21224
 #EXTINF:0 group-title="INFANTIS" tvg-logo="LOGO",ZooMoo Kids
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/33733
-#EXTINF:0 tvg-logo="" group-title="TESTE",TOONCAST
+#EXTINF:0 tvg-logo="" group-title="INFANTIS",TOONCAST
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/33665
-#EXTINF:0 tvg-logo="" group-title="TESTE",TOONCAST-2
-http://tv.minhalista.me/live/44986080/xefj07xef/37033.ts
 #EXTINF:0 group-title="INFANTIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",BOOMERANG HD
 http://blackuhd.co:80/ednardo/102030/5180
 #EXTINF:0 group-title="INFANTIS" tvg-logo="https://scontent-for1-1.xx.fbcdn.net/v/t1.0-9/131975105_3566649116718197_7740742554373172951_o.jpg?_nc_cat=111&ccb=2&_nc_sid=730e14&_nc_eui2=AeFERKlfE-G2hknmMyjD9gzlrxhWO73TBQOvGFY7vdMFA5JgPnnc6zg2Hzi16opnW7yr-PC99cn0uRYqm_pZjgK2&_nc_ohc=eY2qkdGdED0AX90QBYI&_nc_ht=scontent-for1-1.xx&oh=074f4bd00f6fd87fb78858ffca68657e&oe=6006FAE6",TNS TV
@@ -207,6 +213,10 @@ http://sv1.myiptv4k.top:8080/carlos/102030/3692
 
 ##FILMES e +##
 
+#EXTINF:0 group-title="FILMES e +" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png",COMEDY CENTRAL
+http://sv1.myiptv4k.top:8080/carlos/102030/3686
+#EXTINF:0 group-title="FILMES e +" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png",COMEDY CENTRAL HD
+http://sv1.myiptv4k.top:8080/carlos/102030/3685
 #EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",ROCKO
 http://tiny.cc/ec46tz
 #EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",NICK CLÁSSICO
@@ -297,17 +307,63 @@ http://sv1.myiptv4k.top:8080/carlos/102030/3735
 http://sv1.myiptv4k.top:8080/carlos/102030/3637
 #EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",FX HD
 http://sv1.myiptv4k.top:8080/carlos/102030/3636
+#EXTINF:0 tvg-logo="https://thumbmedia.net/wp-content/uploads/2018/04/FOX.jpg" group-title="FILMES e +",FOX LIFE
+http://stream.angels.red:80/539058/3c0ecb/44683
 
-##SÉRIES e SERIADOS##
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-SMee5n8zmFw/XWxvCb1gwxI/AAAAAAABZO4/gx-AER1ND8c5_6bgNpADnVt-EB98GPv5wCLcBGAs/s1600/Telecine_ouniversodatv.jpg" group-title="FILMES e +",TC ACTION
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32426
 
-#EXTINF:0 group-title="SÉRIES e SERIADOS" tvg-logo="LOGO",WARNER CHANNEL
-http://rec2.distv.net:80/jeremias/123456/532
-#EXTINF:0 group-title="SÉRIES e SERIADOS" tvg-logo="LOGO",TNT SERIES
-http://rec2.distv.net:80/jeremias/123456/523
-#EXTINF:0 group-title="SÉRIES e SERIADOS" tvg-logo="LOGO",COMEDY CENTRAL
-http://sv1.myiptv4k.top:8080/carlos/102030/3686
-#EXTINF:0 group-title="SÉRIES e SERIADOS" tvg-logo="LOGO",COMEDY CENTRAL HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3685
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-SMee5n8zmFw/XWxvCb1gwxI/AAAAAAABZO4/gx-AER1ND8c5_6bgNpADnVt-EB98GPv5wCLcBGAs/s1600/Telecine_ouniversodatv.jpg" group-title="FILMES e +",TC CULT
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32414
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-SMee5n8zmFw/XWxvCb1gwxI/AAAAAAABZO4/gx-AER1ND8c5_6bgNpADnVt-EB98GPv5wCLcBGAs/s1600/Telecine_ouniversodatv.jpg" group-title="FILMES e +",TC FUN
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32406
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-SMee5n8zmFw/XWxvCb1gwxI/AAAAAAABZO4/gx-AER1ND8c5_6bgNpADnVt-EB98GPv5wCLcBGAs/s1600/Telecine_ouniversodatv.jpg" group-title="FILMES e +",TC PIPOCA
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32399
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-SMee5n8zmFw/XWxvCb1gwxI/AAAAAAABZO4/gx-AER1ND8c5_6bgNpADnVt-EB98GPv5wCLcBGAs/s1600/Telecine_ouniversodatv.jpg" group-title="FILMES e +",TC PREMIUM
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32386
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-SMee5n8zmFw/XWxvCb1gwxI/AAAAAAABZO4/gx-AER1ND8c5_6bgNpADnVt-EB98GPv5wCLcBGAs/s1600/Telecine_ouniversodatv.jpg" group-title="FILMES e +",TC TOUCH
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32370
+#EXTINF:0 tvg-logo="https://variety.com/wp-content/uploads/2014/04/warnertv-logo.jpg?w=1000" group-title="FILMES e +",WARNER CHANNEL
+http://blackuhd.co:80/ednardo/102030/5051
+#EXTINF:0 tvg-logo="https://decider.com/wp-content/uploads/2017/08/hbo-2.jpg?quality=90&strip=all&w=646&h=431&crop=1" group-title="FILMES e +",HBO
+http://cloud-nany.cc:80/hyr3cf7/36387/7164
+#EXTINF:0 tvg-logo="https://decider.com/wp-content/uploads/2017/08/hbo-2.jpg?quality=90&strip=all&w=646&h=431&crop=1" group-title="FILMES e +",HBO-2
+http://cloud-nany.cc:80/hyr3cf7/36387/7169
+#EXTINF:0 tvg-logo="https://decider.com/wp-content/uploads/2017/08/hbo-2.jpg?quality=90&strip=all&w=646&h=431&crop=1" group-title="FILMES e +",HBO FAMILY
+http://cloud-nany.cc:80/hyr3cf7/36387/1034
+#EXTINF:0 tvg-logo="https://decider.com/wp-content/uploads/2017/08/hbo-2.jpg?quality=90&strip=all&w=646&h=431&crop=1" group-title="FILMES e +",HBO PLUS
+http://cloud-nany.cc:80/hyr3cf7/36387/8011
+#EXTINF:0 tvg-logo="https://decider.com/wp-content/uploads/2017/08/hbo-2.jpg?quality=90&strip=all&w=646&h=431&crop=1" group-title="FILMES e +",HBO SIGNATURE
+http://cloud-nany.cc:80/hyr3cf7/36387/1182
+#EXTINF:0 tvg-logo="https://decider.com/wp-content/uploads/2017/08/hbo-2.jpg?quality=90&strip=all&w=646&h=431&crop=1" group-title="FILMES e +",HBO MUNDI
+http://cloud-nany.cc:80/hyr3cf7/36387/1178
+#EXTINF:0 tvg-logo="https://decider.com/wp-content/uploads/2017/08/hbo-2.jpg?quality=90&strip=all&w=646&h=431&crop=1" group-title="FILMES e +",HBO POP*
+http://cloud-nany.cc:80/hyr3cf7/36387/7993
+#EXTINF:0 tvg-logo="https://tdias.files.wordpress.com/2007/06/diiiiiscovery.jpg" group-title="FILMES e +",DISCOVERY WORLD
+http://cloud-nany.cc:80/hyr3cf7/36387/8099
+#EXTINF:0 tvg-logo="https://tdias.files.wordpress.com/2007/06/diiiiiscovery.jpg" group-title="FILMES e +",DISCOVERY HOME & HEALTH
+http://cloud-nany.cc:80/hyr3cf7/36387/1048
+#EXTINF:0 tvg-logo="https://tdias.files.wordpress.com/2007/06/diiiiiscovery.jpg" group-title="FILMES e +",DISCOVERY SCIENCE
+http://cloud-nany.cc:80/hyr3cf7/36387/1244
+#EXTINF:0 tvg-logo="https://tdias.files.wordpress.com/2007/06/diiiiiscovery.jpg" group-title="FILMES e +",DISCOVERY SCIENCE-2
+http://cloud-nany.cc:80/hyr3cf7/36387/8105
+#EXTINF:0 tvg-logo="https://tdias.files.wordpress.com/2007/06/diiiiiscovery.jpg" group-title="FILMES e +",DISCOVERY TEATRO
+http://cloud-nany.cc:80/hyr3cf7/36387/1047
+#EXTINF:0 tvg-logo="https://tdias.files.wordpress.com/2007/06/diiiiiscovery.jpg" group-title="FILMES e +",DISCOVERY TURBO
+http://cloud-nany.cc:80/hyr3cf7/36387/1046
+#EXTINF:0 tvg-logo="https://tdias.files.wordpress.com/2007/06/diiiiiscovery.jpg" group-title="FILMES e +",DISCOVERY CHANNEL
+http://cloud-nany.cc:80/hyr3cf7/36387/1049
+#EXTINF:0 tvg-logo="https://www.vpnfan.com/wp-content/uploads/2020/07/tnt-logo.jpg" group-title="FILMES e +",TNT 
+http://cloud-nany.cc:80/hyr3cf7/36387/1094
+#EXTINF:0 tvg-logo="https://www.vpnfan.com/wp-content/uploads/2020/07/tnt-logo.jpg" group-title="FILMES e +",TNT-2
+http://cloud-nany.cc:80/hyr3cf7/36387/7907
+#EXTINF:0 tvg-logo="https://www.vpnfan.com/wp-content/uploads/2020/07/tnt-logo.jpg" group-title="FILMES e +",TNT SÉRIES
+http://cloud-nany.cc:80/hyr3cf7/36387/1092
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Tlc_logo_discovery.jpg" group-title="FILMES e +",TLC
+http://blackuhd.co:80/ednardo/102030/5241
 
 ##CINE SKY & PIPOCA##
 
@@ -330,9 +386,12 @@ http://tiny.cc/cd46tz
 
 ##MÚSICAS e +##
 
+
 #EXTINF:0 group-title="MÚSICAS e +" tvg-logo="LOGO",MTV
 https://llllllllllllllllllllllllllllllllllllllll.fun:8443/a/hls1/mtv.m3u8?mu3zAQc9HC3GbwJq=SIq6MfeUO5uyhoFBle3Ebw&3U1G7qaTxrPbalZnEx=1607214261
-#EXTINF:0 group-title="MÚSICAS e +" tvg-logo="LOGO",MTV LIVE
+#EXTINF:0 tvg-logo="https://vevmo.com/sites/default/files/upload/MTV-Logo-300x238.jpg" group-title="MÚSICAS e +",MTV LIVE 1
+http://stream.angels.red:80/539058/3c0ecb/2812
+#EXTINF:0 group-title="MÚSICAS e +" tvg-logo="LOGO",MTV LIVE 2
 http://rec2.distv.net:80/jeremias/123456/486
 #EXTINF:0 group-title="MÚSICAS e +" tvg-logo="LOGO",MUSIC BOX BRASIL
 http://rec2.distv.net:80/jeremias/123456/488
@@ -342,6 +401,8 @@ https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoa
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/index.m3u8?IMDSFULL
 #EXTINF:0 group-title="MÚSICAS e +", tvg-logo="https://i.imgur.com/R8qQGoZ.png",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8?IMDSFULL
+#EXTINF:0 group-title="MÚSICAS e +", tvg-logo="https://i.imgur.com/aOaSv3i.png",1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 #EXTINF:0 group-title="MÚSICAS e +", tvg-logo="https://i.imgur.com/R8qQGoZ.png",M2O
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?IMDSFULL
 #EXTINF:0 group-title="MÚSICAS e +", tvg-logo="https://i.imgur.com/R8qQGoZ.png",98 Live
@@ -356,8 +417,6 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?IMDSFULL
 http://hitmusic.hu/hitmusic.m3u8?IMDSFULL
 #EXTINF:0 group-title="MÚSICAS e +", tvg-logo="https://i.imgur.com/aOaSv3i.png",Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?IMDSFULL
-#EXTINF:0 group-title="MÚSICAS e +", tvg-logo="https://i.imgur.com/aOaSv3i.png",1HD Music
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 #EXTINF:0 group-title="MÚSICAS e +", tvg-logo="https://i.imgur.com/R8qQGoZ.png",MKK Web TV
 http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8?IMDSFULL
 
