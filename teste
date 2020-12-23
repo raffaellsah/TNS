@@ -1,16 +1,9 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE 06
-http://boxiptv.club:8080/wilson/123456/145668
+
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",Cine Pipoca 01
 http://boxiptv.club:8080/wilson/123456/145698
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",Cine Pipoca 02
-http://boxiptv.club:8080/wilson/123456/145699
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Cine Pipoca 03
-http://boxiptv.club:8080/wilson/123456/145700
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Cine Pipoca 04
-http://boxiptv.club:8080/wilson/123456/145701
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Cine Pipoca 05
 http://boxiptv.club:8080/wilson/123456/145702
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 01
 http://boxiptv.club:8080/wilson/123456/145674
