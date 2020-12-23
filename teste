@@ -1,63 +1,79 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE 06
+http://boxiptv.club:8080/wilson/123456/145668
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",Cine Pipoca 01
+http://boxiptv.club:8080/wilson/123456/145698
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",Cine Pipoca 02
+http://boxiptv.club:8080/wilson/123456/145699
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",Cine Pipoca 03
+http://boxiptv.club:8080/wilson/123456/145700
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",Cine Pipoca 04
+http://boxiptv.club:8080/wilson/123456/145701
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",Cine Pipoca 05
+http://boxiptv.club:8080/wilson/123456/145702
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 01
+http://boxiptv.club:8080/wilson/123456/145674
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 02
+http://boxiptv.club:8080/wilson/123456/145675
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 03
+http://boxiptv.club:8080/wilson/123456/145676
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 04
+http://boxiptv.club:8080/wilson/123456/145677
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 05
+http://boxiptv.club:8080/wilson/123456/145678
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 06
+http://boxiptv.club:8080/wilson/123456/145679
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 07
+http://boxiptv.club:8080/wilson/123456/145680
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 08
+http://boxiptv.club:8080/wilson/123456/145681
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 09
+http://boxiptv.club:8080/wilson/123456/145682
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 10
+
+
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",Syfy HD
 http://boxiptv.club:8080/wilson/123456/145626
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Syfy SD
-http://boxiptv.club:8080/wilson/123456/145627
+
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",TBS
 http://boxiptv.club:8080/wilson/123456/145628
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",TBS HD
 http://boxiptv.club:8080/wilson/123456/145629
+
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",TCM HD
 http://boxiptv.club:8080/wilson/123456/145630
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",TCM SD
 http://boxiptv.club:8080/wilson/123456/145631
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",TECHNO
-http://boxiptv.club:8080/wilson/123456/145837
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",TECNO BREGA
-http://boxiptv.club:8080/wilson/123456/145838
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Action FullHD (H.265)
-http://boxiptv.club:8080/wilson/123456/145925
+
+
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Action HD
 http://boxiptv.club:8080/wilson/123456/145640
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",TELECINE ACTION SD
 http://boxiptv.club:8080/wilson/123456/145641
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Cult FullHD(H.265)
-http://boxiptv.club:8080/wilson/123456/145926
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Cult HD
-http://boxiptv.club:8080/wilson/123456/145642
+
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",TELECINE CULT SD
 http://boxiptv.club:8080/wilson/123456/145643
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Fun FullHD(H.265)
-http://boxiptv.club:8080/wilson/123456/145927
+
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",TELECINE FUN HD
 http://boxiptv.club:8080/wilson/123456/145644
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Fun SD
 http://boxiptv.club:8080/wilson/123456/145645
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Pipoca FullHD(H.265)
-http://boxiptv.club:8080/wilson/123456/145928
+
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Pipoca HD
 http://boxiptv.club:8080/wilson/123456/145646
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Pipoca SD
 http://boxiptv.club:8080/wilson/123456/145647
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Premium FullHD(H.265)
-http://boxiptv.club:8080/wilson/123456/145929
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Premium HD
-http://boxiptv.club:8080/wilson/123456/145648
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Premium SD
-http://boxiptv.club:8080/wilson/123456/145649
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Touch FullHD(H.265)
-http://boxiptv.club:8080/wilson/123456/145930
+
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",TELECINE TOUCH HD
 http://boxiptv.club:8080/wilson/123456/145650
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Touch SD
 http://boxiptv.club:8080/wilson/123456/145651
+
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",TLC HD
 http://boxiptv.club:8080/wilson/123456/145593
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",TLC SD
 http://boxiptv.club:8080/wilson/123456/145594
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",TNT FullHD (H265)
-http://boxiptv.club:8080/wilson/123456/145931
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",TNT HD
 http://boxiptv.club:8080/wilson/123456/145632
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",TNT SD
@@ -66,16 +82,10 @@ http://boxiptv.club:8080/wilson/123456/145633
 http://boxiptv.club:8080/wilson/123456/145634
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",TNT SERIES SD
 http://boxiptv.club:8080/wilson/123456/145635
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",TNT Sies FullHD(H.265)
-http://boxiptv.club:8080/wilson/123456/145932
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Tooncast HD
-http://boxiptv.club:8080/wilson/123456/145396
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Tooncast SD
+
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",Tooncast FHD
 http://boxiptv.club:8080/wilson/123456/145397
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Top Latino TV
-http://boxiptv.club:8080/wilson/123456/145554
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",TopTV
-http://boxiptv.club:8080/wilson/123456/145555
+
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",Travel Box Brazil HD
 http://boxiptv.club:8080/wilson/123456/145556
 
