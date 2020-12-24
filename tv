@@ -1,46 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",A&E FHD  $
-http://needuhd.life:8080/Wagner/123456/108654
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",A&E HD  $
-http://needuhd.life:8080/Wagner/123456/108655
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",A&E HD DUAL AUDIO (H265)
-http://needuhd.life:8080/Wagner/123456/108710
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",a&e sd $
-http://needuhd.life:8080/Wagner/123456/108421
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",AMC HD $
-http://needuhd.life:8080/Wagner/123456/108575
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",ANIMAL PLANET SD $
-http://needuhd.life:8080/Wagner/123456/108408
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",AXN FHD DUAL AUDIO
-http://needuhd.life:8080/Wagner/123456/108722
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",BABY TV SD $
-http://needuhd.life:8080/Wagner/123456/108401
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",band news sd $
-http://needuhd.life:8080/Wagner/123456/108512
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",BAND SD $
-http://needuhd.life:8080/Wagner/123456/108402
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",BAND SPORTS HD $
-http://needuhd.life:8080/Wagner/123456/108570
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",BOA VONTADE TV SD $
-http://needuhd.life:8080/Wagner/123456/108404
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",BOOMERANG FHD DUAL AUDIO
-http://needuhd.life:8080/Wagner/123456/108732
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",CANÇAO NOVA SD
-http://needuhd.life:8080/Wagner/123456/108423
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",cartoon network sd $
-http://needuhd.life:8080/Wagner/123456/108447
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Cine Sky 11
-http://needuhd.life:8080/Wagner/123456/97232
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 2 $
-http://needuhd.life:8080/Wagner/123456/108660
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 7 $
-http://needuhd.life:8080/Wagner/123456/108665
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINEMAX HD $
-http://needuhd.life:8080/Wagner/123456/108582
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",CNN BRASIL HDD $
-http://needuhd.life:8080/Wagner/123456/108623
-
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",Tooncast FHD
 http://boxiptv.club:8080/wilson/123456/145397
 
@@ -108,20 +67,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070
 
 ##ESPORTES##
 
-#EXTINF:0 group-title="ESPORTES" tvg-logo="https://1.bp.blogspot.com/-9PwdisltN6I/Xk70j1fdEAI/AAAAAAAACHQ/2G1AsJrCgXk7GZjSvQdcZGivtDJsawOaACLcBGAsYHQ/s1600/tnt.png",TNT SD
-http://needuhd.life:8080/Wagner/123456/85175
-#EXTINF:0 group-title="ESPORTES" tvg-logo="https://1.bp.blogspot.com/-9PwdisltN6I/Xk70j1fdEAI/AAAAAAAACHQ/2G1AsJrCgXk7GZjSvQdcZGivtDJsawOaACLcBGAsYHQ/s1600/tnt.png",TNT SD-2
-http://needuhd.life:8080/Wagner/123456/108513
-#EXTINF:0 group-title="ESPORTES" tvg-logo="https://1.bp.blogspot.com/-9PwdisltN6I/Xk70j1fdEAI/AAAAAAAACHQ/2G1AsJrCgXk7GZjSvQdcZGivtDJsawOaACLcBGAsYHQ/s1600/tnt.png",TNT HD
-http://needuhd.life:8080/Wagner/123456/85174
-#EXTINF:0 group-title="ESPORTES" tvg-logo="",TNT HD-2
-http://needuhd.life:8080/Wagner/123456/108593
 #EXTINF:0 group-title="ESPORTES" tvg-name="TNT FHD" tvg-logo="https://1.bp.blogspot.com/-9PwdisltN6I/Xk70j1fdEAI/AAAAAAAACHQ/2G1AsJrCgXk7GZjSvQdcZGivtDJsawOaACLcBGAsYHQ/s1600/tnt.png",TNT FHD
 http://needuhd.life:8080/Wagner/123456/85173
-#EXTINF:0 group-title="ESPORTES" tvg-logo="https://1.bp.blogspot.com/-9PwdisltN6I/Xk70j1fdEAI/AAAAAAAACHQ/2G1AsJrCgXk7GZjSvQdcZGivtDJsawOaACLcBGAsYHQ/s1600/tnt.png",TNT FHD 2
-http://needuhd.life:8080/Wagner/123456/108318
-#EXTINF:0 group-title="ESPORTES" tvg-logo="https://scontent-for1-1.xx.fbcdn.net/v/t1.0-9/131975105_3566649116718197_7740742554373172951_o.jpg?_nc_cat=111&ccb=2&_nc_sid=730e14&_nc_eui2=AeFERKlfE-G2hknmMyjD9gzlrxhWO73TBQOvGFY7vdMFA5JgPnnc6zg2Hzi16opnW7yr-PC99cn0uRYqm_pZjgK2&_nc_ohc=eY2qkdGdED0AX90QBYI&_nc_ht=scontent-for1-1.xx&oh=074f4bd00f6fd87fb78858ffca68657e&oe=6006FAE6",TNT
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/tnt_9109c85a_fe3f0bac4acd81aa2777b623e089e40ab49ca3a5/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiMTM4LjM2LjAuNjIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODMuMC40MTAzLjExNiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA4NTA0NjMzO30%3D
 #EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",SPORTV
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 #EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",SPORTV 2
@@ -179,6 +126,8 @@ http://sv1.myiptv4k.top:8080/carlos/102030/3692
 
 ##FILMES e +##
 
+#EXTINF:0 group-title="FILMES" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Viva Web TV
+http://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8?IMDSFULL
 #EXTINF:0 group-title="FILMES e +" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png",COMEDY CENTRAL
 http://sv1.myiptv4k.top:8080/carlos/102030/3686
 #EXTINF:0 group-title="FILMES e +" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png",COMEDY CENTRAL HD
@@ -352,7 +301,6 @@ http://tiny.cc/cd46tz
 
 ##MÚSICAS e +##
 
-
 #EXTINF:0 group-title="MÚSICAS e +" tvg-logo="LOGO",MTV
 https://llllllllllllllllllllllllllllllllllllllll.fun:8443/a/hls1/mtv.m3u8?mu3zAQc9HC3GbwJq=SIq6MfeUO5uyhoFBle3Ebw&3U1G7qaTxrPbalZnEx=1607214261
 #EXTINF:0 tvg-logo="https://vevmo.com/sites/default/files/upload/MTV-Logo-300x238.jpg" group-title="MÚSICAS e +",MTV LIVE 1
@@ -401,7 +349,6 @@ http://sv1.myiptv4k.top:8080/carlos/102030/11246
 
 ##DOCUMENTÁRIOS e +#
 
-
 #EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",ANIMAL PLANET HD
 http://sv1.myiptv4k.top:8080/carlos/102030/3433
 #EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",Film & Arts
@@ -430,7 +377,6 @@ http://rec2.distv.net:80/jeremias/123456/482
 http://rec2.distv.net:80/jeremias/123456/483
 #EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",CULTURA HD
 http://sv1.myiptv4k.top:8080/carlos/102030/3779
-
 #EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",DISCOVERY SCIENCE
 http://sv1.myiptv4k.top:8080/carlos/102030/3727
 #EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",DISCOVERY CHANNEL
@@ -522,8 +468,6 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?IMDSFULL
 https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8?IMDSFULL
 #EXTINF:0 group-title="CANAIS ABERTOS", tvg-logo="https://i.imgur.com/R8qQGoZ.png",REDE BRASIL
 https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8?IMDSFULL
-#EXTINF:0 group-title="FILMES" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Viva Web TV
-http://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8?IMDSFULL
 #EXTINF:0 group-title="CANAIS ABERTOS", tvg-logo="https://i.imgur.com/R8qQGoZ.png",Canal Futura
 https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist.m3u8?IMDSFULL
 #EXTINF:0 group-title="CANAIS ABERTOS", tvg-logo="https://i.imgur.com/R8qQGoZ.png",Band
