@@ -1,79 +1,45 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Cine Pipoca 01
-http://boxiptv.club:8080/wilson/123456/145698
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Cine Pipoca 02
-http://boxiptv.club:8080/wilson/123456/145702
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 01
-http://boxiptv.club:8080/wilson/123456/145674
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 02
-http://boxiptv.club:8080/wilson/123456/145675
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 03
-http://boxiptv.club:8080/wilson/123456/145676
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 04
-http://boxiptv.club:8080/wilson/123456/145677
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 05
-http://boxiptv.club:8080/wilson/123456/145678
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 06
-http://boxiptv.club:8080/wilson/123456/145679
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 07
-http://boxiptv.club:8080/wilson/123456/145680
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 08
-http://boxiptv.club:8080/wilson/123456/145681
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 09
-http://boxiptv.club:8080/wilson/123456/145682
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 10
-
-
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Syfy HD
-http://boxiptv.club:8080/wilson/123456/145626
-
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",TBS
-http://boxiptv.club:8080/wilson/123456/145628
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",TBS HD
-http://boxiptv.club:8080/wilson/123456/145629
-
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",TCM HD
-http://boxiptv.club:8080/wilson/123456/145630
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",TCM SD
-http://boxiptv.club:8080/wilson/123456/145631
-
-
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Action HD
-http://boxiptv.club:8080/wilson/123456/145640
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",TELECINE ACTION SD
-http://boxiptv.club:8080/wilson/123456/145641
-
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",TELECINE CULT SD
-http://boxiptv.club:8080/wilson/123456/145643
-
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",TELECINE FUN HD
-http://boxiptv.club:8080/wilson/123456/145644
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Fun SD
-http://boxiptv.club:8080/wilson/123456/145645
-
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Pipoca HD
-http://boxiptv.club:8080/wilson/123456/145646
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Pipoca SD
-http://boxiptv.club:8080/wilson/123456/145647
-
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",TELECINE TOUCH HD
-http://boxiptv.club:8080/wilson/123456/145650
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Telecine Touch SD
-http://boxiptv.club:8080/wilson/123456/145651
-
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",TLC HD
-http://boxiptv.club:8080/wilson/123456/145593
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",TLC SD
-http://boxiptv.club:8080/wilson/123456/145594
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",TNT HD
-http://boxiptv.club:8080/wilson/123456/145632
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",TNT SD
-http://boxiptv.club:8080/wilson/123456/145633
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",TNT Series HD
-http://boxiptv.club:8080/wilson/123456/145634
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",TNT SERIES SD
-http://boxiptv.club:8080/wilson/123456/145635
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",A&E FHD  $
+http://needuhd.life:8080/Wagner/123456/108654
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",A&E HD  $
+http://needuhd.life:8080/Wagner/123456/108655
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",A&E HD DUAL AUDIO (H265)
+http://needuhd.life:8080/Wagner/123456/108710
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",a&e sd $
+http://needuhd.life:8080/Wagner/123456/108421
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",AMC HD $
+http://needuhd.life:8080/Wagner/123456/108575
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",ANIMAL PLANET SD $
+http://needuhd.life:8080/Wagner/123456/108408
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",AXN FHD DUAL AUDIO
+http://needuhd.life:8080/Wagner/123456/108722
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",BABY TV SD $
+http://needuhd.life:8080/Wagner/123456/108401
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",band news sd $
+http://needuhd.life:8080/Wagner/123456/108512
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",BAND SD $
+http://needuhd.life:8080/Wagner/123456/108402
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",BAND SPORTS HD $
+http://needuhd.life:8080/Wagner/123456/108570
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",BOA VONTADE TV SD $
+http://needuhd.life:8080/Wagner/123456/108404
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",BOOMERANG FHD DUAL AUDIO
+http://needuhd.life:8080/Wagner/123456/108732
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CANÇAO NOVA SD
+http://needuhd.life:8080/Wagner/123456/108423
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",cartoon network sd $
+http://needuhd.life:8080/Wagner/123456/108447
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",Cine Sky 11
+http://needuhd.life:8080/Wagner/123456/97232
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 2 $
+http://needuhd.life:8080/Wagner/123456/108660
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINE SKY 7 $
+http://needuhd.life:8080/Wagner/123456/108665
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CINEMAX HD $
+http://needuhd.life:8080/Wagner/123456/108582
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",CNN BRASIL HDD $
+http://needuhd.life:8080/Wagner/123456/108623
 
 #EXTINF:0 tvg-logo="logo" group-title="TESTE",Tooncast FHD
 http://boxiptv.club:8080/wilson/123456/145397
