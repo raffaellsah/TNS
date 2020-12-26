@@ -4,6 +4,9 @@
 
 #EXTINF:0 group-title="CANAIS 24hrs" tvg-logo="http://blog.tribunadonorte.com.br/agitosebaladas/files/2014/09/amigaozao-1-300x225.jpg",AMIGAOZÃO
 http://khtro.com:25461/2b213644tz/51826rs/31582
+#EXTINF:0 group-title="CANAIS 24hrs" tvg-logo="http://blog.tribunadonorte.com.br/agitosebaladas/files/2014/09/amigaozao-1-300x225.jpg",tst
+
+http://viptv2.dyndns.tv:25461/live/C44EAC260B77/C44EAC260B77/127.m3u8
 
 ##INFANTIS##
 
