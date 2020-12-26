@@ -1,10 +1,7 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Tooncast FHD
-http://boxiptv.club:8080/wilson/123456/145397
+#EXTINF:0 tvg-logo="logo" group-title="TESTE",
 
-#EXTINF:0 tvg-logo="logo" group-title="TESTE",Travel Box Brazil HD
-http://boxiptv.club:8080/wilson/123456/145556
 
 
 ##24hrs##
@@ -106,28 +103,8 @@ http://tiny.cc/nd46tz
 http://tiny.cc/id46tz
 #EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",SÉRIES
 http://tiny.cc/vd46tz
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",A&E
-http://sv1.myiptv4k.top:8080/carlos/102030/3426
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",A&E HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3427
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",AMC
-http://sv1.myiptv4k.top:8080/carlos/102030/3430
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",AMC HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3431
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",DISNEY CHANNEL
-http://sv1.myiptv4k.top:8080/carlos/102030/3731
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO"CANAL SONY HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3697
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",CINEMAX 
-http://sv1.myiptv4k.top:8080/carlos/102030/3693
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",CINEMAX HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3692
-#EXTINF:0 group-title="FILMES" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Viva Web TV
+#EXTINF:0 group-title="FILMES e +" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Viva Web TV
 http://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8?IMDSFULL
-#EXTINF:0 group-title="FILMES e +" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png",COMEDY CENTRAL
-http://sv1.myiptv4k.top:8080/carlos/102030/3686
-#EXTINF:0 group-title="FILMES e +" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png",COMEDY CENTRAL HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3685
 #EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",ROCKO
 http://tiny.cc/ec46tz
 #EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",NICK CLÁSSICO
@@ -148,44 +125,30 @@ http://tiny.cc/1e46tz
 http://tiny.cc/3e46tz
 #EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",CINE SUCESSOS
 http://tiny.cc/5e46tz
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",ARTE 1 HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3434
 #EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",AXN
 http://sv1.myiptv4k.top:8080/carlos/102030/3428
 #EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",AXN HD
 http://sv1.myiptv4k.top:8080/carlos/102030/7135
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",MEGAPIX
-http://rec2.distv.net:80/jeremias/123456/484
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",STUDIO UNIVERSAL
-http://rec2.distv.net:80/jeremias/123456/512
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",SYFY
-http://rec2.distv.net:80/jeremias/123456/513
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",TBS
-http://rec2.distv.net:80/jeremias/123456/514
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",PARAMOUNT
-http://rec2.distv.net:80/jeremias/123456/496
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",OFF
-http://rec2.distv.net:80/jeremias/123456/494
 #EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",Space
 http://sv1.myiptv4k.top:8080/carlos/102030/3511
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",FOX HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3647
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",Fox Life
-http://sv1.myiptv4k.top:8080/carlos/102030/3646
-#EXTINF:0 group-title="FILMES e +",FOX LIFE HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3645
-#EXTINF:0 group-title="FILMES e +",FOX PREMIUM 1
-http://sv1.myiptv4k.top:8080/carlos/102030/3734
-#EXTINF:0 group-title="FILMES e +",FOX PREMIUM 1 HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3644
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",FOX PREMIUM 2
-http://sv1.myiptv4k.top:8080/carlos/102030/3735
 #EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",FX
 http://sv1.myiptv4k.top:8080/carlos/102030/3637
 #EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",FX HD
 http://sv1.myiptv4k.top:8080/carlos/102030/3636
+#EXTINF:0 group-title="FILMES e +" tvg-logo="https://thumbmedia.net/wp-content/uploads/2018/04/FOX.jpg",FOX HD
+http://sv1.myiptv4k.top:8080/carlos/102030/3647
+#EXTINF:0 group-title="FILMES e +" tvg-logo="https://thumbmedia.net/wp-content/uploads/2018/04/FOX.jpg",Fox Life
+http://sv1.myiptv4k.top:8080/carlos/102030/3646
+#EXTINF:0 group-title="FILMES e +" tvg-logo="https://thumbmedia.net/wp-content/uploads/2018/04/FOX.jpg",FOX PREMIUM 1
+http://sv1.myiptv4k.top:8080/carlos/102030/3645
 #EXTINF:0 tvg-logo="https://thumbmedia.net/wp-content/uploads/2018/04/FOX.jpg" group-title="FILMES e +",FOX LIFE
+http://sv1.myiptv4k.top:8080/carlos/102030/3734
+#EXTINF:0 group-title="FILMES e +" tvg-logo="https://thumbmedia.net/wp-content/uploads/2018/04/FOX.jpg",FOX LIFE HD
 http://stream.angels.red:80/539058/3c0ecb/44683
+#EXTINF:0 group-title="FILMES e +" tvg-logo="https://thumbmedia.net/wp-content/uploads/2018/04/FOX.jpg",FOX PREMIUM 1 HD
+http://sv1.myiptv4k.top:8080/carlos/102030/3644
+#EXTINF:0 group-title="FILMES e +" tvg-logo="https://thumbmedia.net/wp-content/uploads/2018/04/FOX.jpg",FOX PREMIUM 2
+http://sv1.myiptv4k.top:8080/carlos/102030/3735
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-SMee5n8zmFw/XWxvCb1gwxI/AAAAAAABZO4/gx-AER1ND8c5_6bgNpADnVt-EB98GPv5wCLcBGAs/s1600/Telecine_ouniversodatv.jpg" group-title="FILMES e +",TC ACTION
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/32426
@@ -308,75 +271,6 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?IMDSFULL
 http://sv1.myiptv4k.top:8080/carlos/102030/11247
 #EXTINF:0 group-title="NOTÍCIAS",CNN Brasil SD
 http://sv1.myiptv4k.top:8080/carlos/102030/11246
-
-##DOCUMENTÁRIOS e +#
-
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",ANIMAL PLANET HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3433
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",Film & Arts
-http://sv1.myiptv4k.top:8080/carlos/102030/3652
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",GNT
-http://rec2.distv.net:80/jeremias/123456/469
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",H2
-http://rec2.distv.net:80/jeremias/123456/480
-##EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",TRAVEL BOX
-http://rec2.distv.net:80/jeremias/123456/524
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",TV BRASIL
-http://rec2.distv.net:80/jeremias/123456/526
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",WOOHOO
-http://rec2.distv.net:80/jeremias/123456/533
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",TV ARATU
-http://rec2.distv.net:80/jeremias/123456/556
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",TV GRANDE RIO
-http://rec2.distv.net:80/jeremias/123456/557
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",NATGEO
-http://rec2.distv.net:80/jeremias/123456/489
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",HISTORY
-http://rec2.distv.net:80/jeremias/123456/479
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",LIFETIME
-http://rec2.distv.net:80/jeremias/123456/482
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",MAIS GLOBOSAT
-http://rec2.distv.net:80/jeremias/123456/483
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",CULTURA HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3779
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",DISCOVERY SCIENCE
-http://sv1.myiptv4k.top:8080/carlos/102030/3727
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",DISCOVERY CHANNEL
-http://sv1.myiptv4k.top:8080/carlos/102030/3683
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",DISCOVERY CHANNEL HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3682
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",DISCOVERY CIVILIZATION HD
-http://sv1.myiptv4k.top:8080/carlos/102030/6788
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",DISCOVERY CIVILIZATION
-http://sv1.myiptv4k.top:8080/carlos/102030/3725
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",DISCOVERY HOME & HEALTH HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3781
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",DISCOVERY SCIENCE HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3676
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",DISCOVERY THEATER HD
-http://sv1.myiptv4k.top:8080/carlos/102030/6800
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",DISCOVERY THEATER
-http://sv1.myiptv4k.top:8080/carlos/102030/3728
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",DISCOVERY TLC
-http://sv1.myiptv4k.top:8080/carlos/102030/3729
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",DISCOVERY TLC HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3782
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",DISCOVERY TURBO HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3673
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",DISCOVERY TURBO SD
-http://sv1.myiptv4k.top:8080/carlos/102030/3674
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",E!
-http://sv1.myiptv4k.top:8080/carlos/102030/3664
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",E! HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3663
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",FILM & ARTS HD
-http://sv1.myiptv4k.top:8080/carlos/102030/6474
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",OFF
-http://sv1.myiptv4k.top:8080/carlos/102030/3563
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",FUTURA
-http://sv1.myiptv4k.top:8080/carlos/102030/6853
-#EXTINF:0 group-title="DOCUMENTÁRIOS e +" tvg-logo="LOGO",FUTURA HD
-http://sv1.myiptv4k.top:8080/carlos/102030/6852
 
 ##Educativo##
 
