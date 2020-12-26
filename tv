@@ -93,39 +93,35 @@ http://n.srv1.xyz:8880/rogerrocha/estherlorena/33080
 http://cloud-nany.cc:80/hyr3cf7/36387/6715
 #EXTINF:0 group-title="ESPORTES" tvg-logo="LOGO",PREMIERE
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
-##FILMES E SÉRIES##
-
-#EXTINF:0 group-title="FILMES & SÉRIES" tvg-logo="LOGO",PPTV
-http://tiny.cc/ed46tz
-#EXTINF:0 group-title="FILMES & SÉRIES" tvg-logo="LOGO",
-MEGA CINE
-http://tiny.cc/ed46tz
-#EXTINF:0 group-title="FILMES & SÉRIES" tvg-logo="LOGO",
-ARE YOU THE ONE?
-http://tiny.cc/nd46tz
-#EXTINF:0 group-title="FILMES & SÉRIES" tvg-logo="LOGO",AWESOME
-http://tiny.cc/id46tz
-#EXTINF:0 group-title="FILMES & SÉRIES" tvg-logo="LOGO",SÉRIES
-http://tiny.cc/vd46tz
-#EXTINF:0 group-title="FILMES & SÉRIES" tvg-logo="LOGO",A&E
-http://sv1.myiptv4k.top:8080/carlos/102030/3426
-#EXTINF:0 group-title="FILMES & SÉRIES" tvg-logo="LOGO",A&E HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3427
-#EXTINF:0 group-title="FILMES & SÉRIES" tvg-logo="LOGO",AMC
-http://sv1.myiptv4k.top:8080/carlos/102030/3430
-#EXTINF:0 group-title="FILMES & SÉRIES" tvg-logo="LOGO",AMC HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3431
-#EXTINF:0 group-title="FILMES & SÉRIES" tvg-logo="LOGO",DISNEY CHANNEL
-http://sv1.myiptv4k.top:8080/carlos/102030/3731
-#EXTINF:0 group-title="FILMES & SÉRIES" tvg-logo="LOGO"CANAL SONY HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3697
-#EXTINF:0 group-title="FILMES & SÉRIES" tvg-logo="LOGO",CINEMAX 
-http://sv1.myiptv4k.top:8080/carlos/102030/3693
-#EXTINF:0 group-title="FILMES & SÉRIES" tvg-logo="LOGO",CINEMAX HD
-http://sv1.myiptv4k.top:8080/carlos/102030/3692
 
 ##FILMES e +##
 
+#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",PPTV
+http://tiny.cc/ed46tz
+#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",MEGA CINE
+http://tiny.cc/ed46tz
+#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",ARE YOU THE ONE?
+http://tiny.cc/nd46tz
+#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",AWESOME
+http://tiny.cc/id46tz
+#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",SÉRIES
+http://tiny.cc/vd46tz
+#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",A&E
+http://sv1.myiptv4k.top:8080/carlos/102030/3426
+#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",A&E HD
+http://sv1.myiptv4k.top:8080/carlos/102030/3427
+#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",AMC
+http://sv1.myiptv4k.top:8080/carlos/102030/3430
+#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",AMC HD
+http://sv1.myiptv4k.top:8080/carlos/102030/3431
+#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",DISNEY CHANNEL
+http://sv1.myiptv4k.top:8080/carlos/102030/3731
+#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO"CANAL SONY HD
+http://sv1.myiptv4k.top:8080/carlos/102030/3697
+#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",CINEMAX 
+http://sv1.myiptv4k.top:8080/carlos/102030/3693
+#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",CINEMAX HD
+http://sv1.myiptv4k.top:8080/carlos/102030/3692
 #EXTINF:0 group-title="FILMES" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Viva Web TV
 http://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8?IMDSFULL
 #EXTINF:0 group-title="FILMES e +" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png",COMEDY CENTRAL
@@ -158,42 +154,8 @@ http://sv1.myiptv4k.top:8080/carlos/102030/3434
 http://sv1.myiptv4k.top:8080/carlos/102030/3428
 #EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",AXN HD
 http://sv1.myiptv4k.top:8080/carlos/102030/7135
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",TELECINE ACTION
-http://sv1.myiptv4k.top:8080/carlos/102030/4021
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",HBO
-http://rec2.distv.net:80/jeremias/123456/471
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",HBO 2
-http://rec2.distv.net:80/jeremias/123456/472
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",HBO FAMILY
-http://rec2.distv.net:80/jeremias/123456/473
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",HBO MUNDI
-http://rec2.distv.net:80/jeremias/123456/475
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",HBO PLUS
-http://rec2.distv.net:80/jeremias/123456/474
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO" ,HBO POP
-http://rec2.distv.net:80/jeremias/123456/476
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",HBO SIGNATURE
-http://rec2.distv.net:80/jeremias/123456/478
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",HBO XTREME
-http://cloud-nany.cc:80/hyr3cf7/36387/7996
 #EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",MEGAPIX
 http://rec2.distv.net:80/jeremias/123456/484
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",TC ACTION
-http://rec2.distv.net:80/jeremias/123456/515
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",TC CULT
-http://rec2.distv.net:80/jeremias/123456/516
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",TC FUN
-http://rec2.distv.net:80/jeremias/123456/517
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",TC PIPOCA
-http://rec2.distv.net:80/jeremias/123456/518
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",TC PREMIUM
-http://rec2.distv.net:80/jeremias/123456/519
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",TC TOUCH
-http://rec2.distv.net:80/jeremias/123456/520
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",TLC
-http://rec2.distv.net:80/jeremias/123456/521
-#EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",TNT
-http://rec2.distv.net:80/jeremias/123456/522
 #EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",STUDIO UNIVERSAL
 http://rec2.distv.net:80/jeremias/123456/512
 #EXTINF:0 group-title="FILMES e +" tvg-logo="LOGO",SYFY
