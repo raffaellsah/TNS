@@ -5,6 +5,23 @@
 #EXTINF:0 group-title="TESTE" tvg-logo="",1
 http://mx.americafhd.net:8080/Liza/1234/172?token=ShBZAkYKRw0TU1cEDgcEUFVWAQNTUgBVDQwHAgcNDlsEBVICAVddBFUQSURLQ0QDBV9qX1MUXwcCCx5EQEddSm5bVUEPQFIPCARHShpDXwsBEA8HAQZcBgwOAF8FGBpIWFYTWRdQUQEAB1FEFBVTHhBXR1hWWjpSUE9bBVAWAlZEXl1PFw0LaFVXCAdWUxRcRgIXGhVfFkYXA1wTWVgUGlNbRRFUFgAVCxBXVA8BFEpGUVpDWUIXTxcDECRnFhQaVEpFBlsRDFhfEF9ETEQUSkZbRmlFUxZCR1xTC1BGGgITAhNPFw8ET25RCghWUlUSDV1bRRUMRwcXFRALWlpRTF5AbhNcBkcNEwFTUw8BBUQZ
 
+#EXTINF:0 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 1 HD" tvg-logo="https://www.minhaoperadora.com.br/wp-content/uploads/2020/09/Novo-canal-da-Band-e-Conmebol-e-garantido-na-SKY-e-Claro-net.jpg" group-title="ESPORTES",CONMEBOL TV 1 HD
+http://srv.maxptv.net:8080/Liza/1234/18835
+#EXTINF:0 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 1 SD" tvg-logo="https://www.minhaoperadora.com.br/wp-content/uploads/2020/09/Novo-canal-da-Band-e-Conmebol-e-garantido-na-SKY-e-Claro-net.jpg" group-title="ESPORTES",CONMEBOL TV 1 SD
+http://srv.maxptv.net:8080/Liza/1234/19039
+#EXTINF:0 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 2 HD" tvg-logo="https://www.minhaoperadora.com.br/wp-content/uploads/2020/09/Novo-canal-da-Band-e-Conmebol-e-garantido-na-SKY-e-Claro-net.jpg" group-title="ESPORTES",CONMEBOL TV 2 HD
+http://srv.maxptv.net:8080/Liza/1234/18836
+#EXTINF:0 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 2 SD" tvg-logo="https://www.minhaoperadora.com.br/wp-content/uploads/2020/09/Novo-canal-da-Band-e-Conmebol-e-garantido-na-SKY-e-Claro-net.jpg" group-title="ESPORTES",CONMEBOL TV 2 SD
+http://srv.maxptv.net:8080/Liza/1234/19040
+#EXTINF:0 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 3 HD" tvg-logo="https://www.minhaoperadora.com.br/wp-content/uploads/2020/09/Novo-canal-da-Band-e-Conmebol-e-garantido-na-SKY-e-Claro-net.jpg" group-title="ESPORTES",CONMEBOL TV 3 HD
+http://srv.maxptv.net:8080/Liza/1234/18837
+#EXTINF:0 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 3 SD" tvg-logo="https://www.minhaoperadora.com.br/wp-content/uploads/2020/09/Novo-canal-da-Band-e-Conmebol-e-garantido-na-SKY-e-Claro-net.jpg" group-title="ESPORTES",CONMEBOL TV 3 SD
+http://srv.maxptv.net:8080/Liza/1234/19041
+#EXTINF:0 tvg-id="Conmeboltv1.br" tvg-name=" CONMEBOL TV 4 HD" tvg-logo="https://www.minhaoperadora.com.br/wp-content/uploads/2020/09/Novo-canal-da-Band-e-Conmebol-e-garantido-na-SKY-e-Claro-net.jpg" group-title="ESPORTES", CONMEBOL TV 4 HD
+http://srv.maxptv.net:8080/Liza/1234/18838
+#EXTINF:0 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 4 SD" tvg-logo="https://www.minhaoperadora.com.br/wp-content/uploads/2020/09/Novo-canal-da-Band-e-Conmebol-e-garantido-na-SKY-e-Claro-net.jpg" group-title="ESPORTES",CONMEBOL TV 4 SD
+http://srv.maxptv.net:8080/Liza/1234/19042
+
 ##INFANTIS##
 
 #EXTINF:0 group-title="INFANTIS",Nick Jr. Club
