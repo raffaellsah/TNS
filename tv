@@ -3,10 +3,10 @@
 ##TEST##
 
 #EXTINF:0 tvg-name="O MANDALORIANO S01 E01" tvg-logo="http://vpnbr.top:80/images/9FNT1Z39GAfcraoOTatyckCJAuf_big.jpg" group-title="O MANDALORIANO",O MANDALORIANO S01 E01
-http://vpnbr.top:80/series/539058/3c0ecb/63301.mp4
+http://vpnbr.top:80/series/539058/3c0ecb/63301.ts
 
 #EXTINF:0 tvg-name="O MANDALORIANO S01 E02" tvg-logo="http://vpnbr.top:80/images/9FNT1Z39GAfcraoOTatyckCJAuf_big.jpg" group-title="O MANDALORIANO",O MANDALORIANO S01 E02
-http://vpnbr.top:80/series/539058/3c0ecb/63302.mp4
+http://vpnbr.top:80/series/539058/3c0ecb/63302.m3u8
 
 #EXTINF:0 tvg-name="O MANDALORIANO S01 E03" tvg-logo="http://vpnbr.top:80/images/9FNT1Z39GAfcraoOTatyckCJAuf_big.jpg" group-title="O MANDALORIANO",O MANDALORIANO S01 E03
 http://vpnbr.top:80/series/539058/3c0ecb/63303.mp4
