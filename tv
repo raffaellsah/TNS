@@ -2,42 +2,9 @@
 
 ##TEST##
 
-#EXTINF:0 tvg-name="O MANDALORIANO S01 E01" tvg-logo="http://vpnbr.top:80/images/9FNT1Z39GAfcraoOTatyckCJAuf_big.jpg" group-title="O MANDALORIANO",O MANDALORIANO S01 E01
-https://drive.google.com/u/0/uc?id=1VucJcbeh__E-hOYhUyeIGOCt6CBiGVUS&export=download
-
-#EXTINF:0 tvg-name="O MANDALORIANO S01 E02" tvg-logo="http://vpnbr.top:80/images/9FNT1Z39GAfcraoOTatyckCJAuf_big.jpg" group-title="O MANDALORIANO",O MANDALORIANO S01 E02
-http://vpnbr.top:80/series/539058/3c0ecb/63302.mp4
-
-#EXTINF:0 tvg-name="O MANDALORIANO S01 E03" tvg-logo="http://vpnbr.top:80/images/9FNT1Z39GAfcraoOTatyckCJAuf_big.jpg" group-title="O MANDALORIANO",O MANDALORIANO S01 E03
-http://vpnbr.top:80/series/539058/3c0ecb/63303.mp4
-
-#EXTINF:0 tvg-name="O MANDALORIANO S01 E04" tvg-logo="http://vpnbr.top:80/images/9FNT1Z39GAfcraoOTatyckCJAuf_big.jpg" group-title="O MANDALORIANO",O MANDALORIANO S01 E04
-http://vpnbr.top:80/series/539058/3c0ecb/63304.mp4
-
-#EXTINF:0 tvg-name="O MANDALORIANO S01 E05" tvg-logo="http://vpnbr.top:80/images/9FNT1Z39GAfcraoOTatyckCJAuf_big.jpg" group-title="O MANDALORIANO",O MANDALORIANO S01 E05
-http://vpnbr.top:80/series/539058/3c0ecb/63305.mp4
-
-#EXTINF:0 tvg-name="O MANDALORIANO S01 E06" tvg-logo="http://vpnbr.top:80/images/9FNT1Z39GAfcraoOTatyckCJAuf_big.jpg" group-title="O MANDALORIANO",O MANDALORIANO S01 E06
-http://vpnbr.top:80/series/539058/3c0ecb/63306.mp4
-
-#EXTINF:0 tvg-name="O MANDALORIANO S01 E07" tvg-logo="http://vpnbr.top:80/images/9FNT1Z39GAfcraoOTatyckCJAuf_big.jpg" group-title="O MANDALORIANO",O MANDALORIANO S01 E07
-http://vpnbr.top:80/series/539058/3c0ecb/63307.mp4
-
-#EXTINF:0 tvg-name="O MANDALORIANO S01 E08" tvg-logo="http://vpnbr.top:80/images/9FNT1Z39GAfcraoOTatyckCJAuf_big.jpg" group-title="O MANDALORIANO",O MANDALORIANO S01 E08
-http://vpnbr.top:80/series/539058/3c0ecb/63308.mp4
-
-#EXTINF:0 tvg-name="O MANDALORIANO S02 E01" tvg-logo="http://vpnbr.top:80/images/n6oeOfj8jMPbXZ2E2QTVXYt5cvO_small.jpg" group-title="O MANDALORIANO",O MANDALORIANO S02 E01
-http://vpnbr.top:80/series/539058/3c0ecb/68551.mp4
-
-#EXTINF:0 tvg-name="O MANDALORIANO S02 E02" tvg-logo="http://vpnbr.top:80/images/kAuS7h8qVLokHcKpSwZMum4PhC2_small.jpg" group-title="O MANDALORIANO",O MANDALORIANO S02 E02
-http://vpnbr.top:80/series/539058/3c0ecb/68552.mp4
-
-
-
-
 
 #EXTINF:0 group-title="TESTE" tvg-logo="",1
-http://n.srv1.xyz:8880/series/rogerrocha/estherlorena/80316.mp4
+http://pdsrv.io:80/elton10/elton10/34878
 
 #EXTINF:0 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 1 HD" tvg-logo="https://www.minhaoperadora.com.br/wp-content/uploads/2020/09/Novo-canal-da-Band-e-Conmebol-e-garantido-na-SKY-e-Claro-net.jpg" group-title="ESPORTES",CONMEBOL TV 1 HD
 http://srv.maxptv.net:8080/Liza/1234/18835
