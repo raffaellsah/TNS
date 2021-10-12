@@ -1,11 +1,320 @@
  
 #EXTM3U
 
-#EXTINF:0 vg-logo="https://img.sport-tv-guide.live/images/stations/a1242.png" group-title="FILMES E SÉRIES",moi1
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
+##### FILMES E SÉRIES #####
 
-#EXTINF:0 vg-logo="LOGO" group-title="FILMES E SÉRIES",NOMEdoCANAL
-LINK
+#EXTINF:0 vg-logo="https://cdn.freebiesupply.com/logos/large/2x/film-arts-logo-png-transparent.png" group-title="FILMES E SÉRIES",Film Arts sd
+http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v2a1/mono.m3u8?
 
-#EXTINF:0 group-title="ABERTOS" tvg-id="RaiNews24" tvg-logo="LOGO", MOI2
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+#EXTINF:0 vg-logo="http://infamedia.net/mexico/filmandarts.png" group-title="FILMES E SÉRIES",Film Arts hd
+http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8?
+
+#EXTINF:0 vg-logo="https://www.pngall.com/wp-content/uploads/4/HBO-PNG-HD-Image.png" group-title="FILMES E SÉRIES",HBO
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856313.m3u8?
+
+#EXTINF:0 vg-logo="https://pngimage.net/wp-content/uploads/2018/06/hbo-png-2.png" group-title="FILMES E SÉRIES",HBO sd audio 1
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856315.m3u8?
+
+#EXTINF:0 vg-logo="https://www.pngplay.com/wp-content/uploads/7/Hbo-PNG-HD-Quality.png" group-title="FILMES E SÉRIES",HBO sd audio 2
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856317.m3u8?
+
+#EXTINF:0 vg-logo="https://www.nicepng.com/png/full/223-2235557_hbo-go-hbo-tv-icon.png" group-title="FILMES E SÉRIES",HBO 2 sd 
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856319.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="FILMES E SÉRIES",HBO 2 hd
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856321.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="FILMES E SÉRIES",HBO 2
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856323.m3u8?
+
+#EXTINF:0 vg-logo="https://www.pngkey.com/png/full/223-2235523_hbo-family-1996-hbo-family.png" group-title="FILMES E SÉRIES",HBO Family
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856325.m3u8?
+
+#EXTINF:0 vg-logo="https://www.seekpng.com/png/full/0-2471_hbo-family-logo-png.png" group-title="FILMES E SÉRIES",HBO Family
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856327.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="FILMES E SÉRIES",HBO Family 2
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856329.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="FILMES E SÉRIES",HBO Mundi
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856332.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="FILMES E SÉRIES",HBO Mundi 2
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856334.m3u8?
+
+#EXTINF:0 vg-logo="https://bestfibra.com.br/wp-content/uploads/2021/07/0000_all_l_hboall-HBO-POP-Black-300x295.png" group-title="FILMES E SÉRIES",HBO Pop
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856339.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/2560px-HBO_Pop.svg.png" group-title="FILMES E SÉRIES",HBO Pop
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856341.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="FILMES E SÉRIES",HBO Signature
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856347.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/2560px-HBO_Xtreme.svg.png" group-title="FILMES E SÉRIES",HBO Xtreme
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856349.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/2560px-HBO_Xtreme.svg.png" group-title="FILMES E SÉRIES",HBO Xtreme
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856351.m3u8?
+
+#EXTINF:0 vg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/hboextremeGris_Enero20v2.png" group-title="FILMES E SÉRIES",HBO Xtreme
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856353.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="FILMES E SÉRIES",HBO Plus
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856355.m3u8?
+
+#EXTINF:0 vg-logo="https://imagensemoldes.com.br/wp-content/uploads/2020/10/Desenho-HBO-PNG-1024x1024.png" group-title="FILMES E SÉRIES",HBO So Audio
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856356.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1280px-Logohboplus2019.svg.png" group-title="FILMES E SÉRIES",HBO+
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856357.m3u8?
+
+#EXTINF:0 vg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-cult-252x252.png" group-title="FILMES E SÉRIES",Telecine Cult
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856002.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Telecine_Fun.png" group-title="FILMES E SÉRIES",Telecine Fun 1
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856004.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine-fun-2.png" group-title="FILMES E SÉRIES",Telecine Fun 2
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856006.m3u8?
+
+#EXTINF:0 vg-logo="https://aovivo.pro/wp-content/uploads/2019/07/tcfun-150x117.png" group-title="FILMES E SÉRIES",Telecine Fun 3
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856008.m3u8?
+
+#EXTINF:0 vg-logo="https://skytvplanos.com.br/img/channels/lg-264-canal-tc-pipoca-hd.png" group-title="FILMES E SÉRIES",Telecine Pipoca 1
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856010.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="FILMES E SÉRIES",Telecine Pipoca 2
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856012.m3u8?
+
+#EXTINF:0 vg-logo="https://iconape.com/wp-content/files/vb/285009/png/285009.png" group-title="FILMES E SÉRIES",Telecine Pipoca 3
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856014.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="FILMES E SÉRIES",Telecine Premium
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856016.m3u8?
+
+#EXTINF:0 vg-logo="https://skytvplanos.com.br/img/channels/lg-261-canal-tc-premium-hd.png" group-title="FILMES E SÉRIES",Telecine Premium 2
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856018.m3u8?
+
+#EXTINF:0 vg-logo="http://1.bp.blogspot.com/-4v5YG02wIkQ/Uy0naXP_HFI/AAAAAAAAhxg/TbM7durqJYU/s1600/tcpremium.png" group-title="FILMES E SÉRIES",Telecine Premium 3
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856020.m3u8
+
+#EXTINF:0 vg-logo="https://cdn.mitvstatic.com/channels/br_telecine-touch_m.png" group-title="FILMES E SÉRIES",Telecine Touch 1
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856022.m3u8?
+
+#EXTINF:0 vg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-touch-252x252.png" group-title="FILMES E SÉRIES",Telecine Touch 2
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856024.m3u8?
+
+#EXTINF:0 vg-logo="https://skytvplanos.com.br/img/channels/lg-263-canal-tc-touch-hd.png" group-title="FILMES E SÉRIES",Telecine Touch 3
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856026.m3u8?
+
+#EXTINF:0 vg-logo="https://clipground.com/images/ae-logo-png-15.png" group-title="FILMES E SÉRIES",A&E
+http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png" group-title="FILMES E SÉRIES",A&E1
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856078.m3u8?
+
+#EXTINF:0 vg-logo="https://skytvplanos.com.br/img/channels/lg-50-canal-a-e.png" group-title="FILMES E SÉRIES",A&E2
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856079.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1200px-Logo_AE_Germany.svg.png" group-title="FILMES E SÉRIES",A&E sd
+http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="FILMES E SÉRIES",A&E hd
+http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m3u8?
+
+#EXTINF:0 vg-logo="https://image.flaticon.com/icons/png/512/870/870885.png" group-title="FILMES E SÉRIES",AXN sd  
+http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_3.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png" group-title="FILMES E SÉRIES",AXN hd
+http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_1.m3u8?
+
+#EXTINF:0 vg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="FILMES E SÉRIES",AXN 1
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856083.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/1280px-AXN_logo.svg.png" group-title="FILMES E SÉRIES",AXN 2
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856085.m3u8?
+
+#EXTINF:0 vg-logo="https://media.cdnandroid.com/0d/34/70/fd/imagen-axn-0big.jpg" group-title="FILMES E SÉRIES",AXN 3
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856087.m3u8?
+
+#EXTINF:0 vg-logo="https://images.uncyc.org/pt/a/ae/Br_amc-brasil_m.png" group-title="FILMES E SÉRIES",AMC1
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856080.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/155px-Amc_logo.svg.png" group-title="FILMES E SÉRIES",AMC 2
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856081.m3u8?
+
+#EXTINF:0 vg-logo="https://www.bravebeginnings.org/wp-content/uploads/2019/02/amc_logo_1200x856.png" group-title="FILMES E SÉRIES",AMC 3
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856082.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="FILMES E SÉRIES",Cinemax 1
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856094.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org//wikipedia/commons/thumb/1/15/Cinemax_new.png/1200px-Cinemax_new.png" group-title="FILMES E SÉRIES",Cinemax 2
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856096.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" group-title="FILMES E SÉRIES",Star Channel
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856100.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="FILMES E SÉRIES",Megapix
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist-480p.m3u8?
+
+#EXTINF:0 vg-logo="https://logodownload.org/wp-content/uploads/2018/03/tnt-express-logo.png" group-title="FILMES E SÉRIES",TNT
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8?
+
+#EXTINF:0 vg-logo="https://1.bp.blogspot.com/-ELV1e2LJlYU/YCaxFOrmHvI/AAAAAAAAERE/sBOPPVuvQIw0dobCP2RoBxux_0f-iiRRgCLcBGAsYHQ/s0/TELA%2BVIVA%2BTV.png" group-title="FILMES E SÉRIES",Tela Viva Tv
+https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8?
+
+#EXTINF:0 vg-logo="https://gruporba.com.br/img/logo.png" group-title="FILMES E SÉRIES",RBA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?
+
+#EXTINF:0 vg-logo="http://www.tripbrasilchannel.com.br/site/wp-content/uploads/2021/01/multiplay.png" group-title="FILMES E SÉRIES",Mult Play
+https://stmv4.samcast.com.br/natanael4227/natanael4227/chunklist_w1853071059.m3u8?
+
+#EXTINF:0 vg-logo="https://assets.streamtest.in/logo/3042/200_kuriakos-cine.jpg" group-title="FILMES E SÉRIES",K Cine
+http://c2.manasat.com:1935/kcine/kcine2/chunklist_w1693599117.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="FILMES E SÉRIES",TCM
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856154.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="FILMES E SÉRIES",TNT
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856161.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" group-title="FILMES E SÉRIES",TNT2
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856163.m3u8?
+
+#EXTINF:0 vg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tnt.png" group-title="FILMES E SÉRIES",TNT 3
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856165.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="FILMES E SÉRIES",TNT Series
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856167.m3u8?
+
+#EXTINF:0 vg-logo="https://www.shopfortaleza.com.br/wp-content/uploads/2019/02/TNT-SERIES.png" group-title="FILMES E SÉRIES",TNT Series
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856169.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="FILMES E SÉRIES",Universal 1
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856172.m3u8?
+
+#EXTINF:0 vg-logo="https://www.pngkey.com/png/full/512-5126414_telefishanka-universal-oo-lagu-ganaaxay-2-000-universal.png" group-title="FILMES E SÉRIES",Universal 2
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856174.m3u8?
+
+
+##### INFANTIL #####
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="INFANTIL",Boomerang
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856580.m3u8?
+
+#EXTINF:0 vg-logo="https://www.nicepng.com/png/detail/205-2059275_your-friendly-guide-to-the-boomerang-mania-boomerang.png" group-title="INFANTIL",Boomerang
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856582.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="INFANTIL",Cartoon Network
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856585.m3u8?
+
+#EXTINF:0 vg-logo="https://image.flaticon.com/icons/png/512/826/826349.png" group-title="INFANTIL",Cartoon Network
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856587.m3u8?
+
+#EXTINF:0 vg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" group-title="INFANTIL",Discovery Kids 1
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856590.m3u8?
+
+#EXTINF:0 vg-logo="https://seeklogo.com/images/D/discovery-kids-logo-0366696948-seeklogo.com.png" group-title="INFANTIL",Discovery Kids 2
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856592.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="INFANTIL",Disney Channel 1
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856595.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png" group-title="INFANTIL",Disney Channel 2
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856597.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png" group-title="INFANTIL",Disney Junior 1
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856600.m3u8?
+
+
+#EXTINF:0 vg-logo="https://www.pinclipart.com/picdir/big/119-1193966_sugar-rush-disney-junior-disney-junior-logo-png.png" group-title="INFANTIL",Disney Junior 2
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856602.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="INFANTIL",Disney XD
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856605.m3u8?
+
+#EXTINF:0 vg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="INFANTIL",Gloob 1
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856609.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Gloob_logo.png" group-title="INFANTIL",Gloob 2
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856611.m3u8?
+
+#EXTINF:0 vg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="INFANTIL",Nick Junior
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856620.m3u8?
+
+
+#EXTINF:0 vg-logo="https://i.pinimg.com/originals/da/a4/c5/daa4c5f3bcd8d67ac7b06de63d793bf1.png" group-title="INFANTIL",Nick Jr sd
+http://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_1.m3u8?
+
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Nick_Jr._HD.png" group-title="INFANTIL",Nick Jr hd
+http://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_3.m3u8?
+
+#EXTINF:0 vg-logo="https://www.areacucuta.com/wp-content/uploads/2014/02/Nickelodeon_logo.png" group-title="INFANTIL",Nickelodeon
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856627.m3u8?
+
+
+#EXTINF:0 vg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/15081ebe-a86a-4d6b-9fc9-23d9d799b1a1/d7kpwx4-7bb370a1-9826-44be-92a6-d97d31df593d.png" group-title="INFANTIL",Nickelodeon sd
+http://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_2.m3u8?
+
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Nickelodeon_HD.svg/1280px-Nickelodeon_HD.svg.png" group-title="INFANTIL",Nickelodeon hd
+http://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_1.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png" group-title="INFANTIL",Tooncast
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856631.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/2438px-ZooMoo_logo.svg.png" group-title="INFANTIL",Zoomoo
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856639.m3u8?
+
+
+#EXTINF:0 vg-logo="https://i.imgur.com/lgr6EYug.png" group-title="INFANTIL",Animezone
+http://azxtv.com/hls/stream.m3u8?
+
+#EXTINF:0 vg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png" group-title="INFANTIL",Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8?
+
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/800px-Naruto_logo.svg.png" group-title="INFANTIL",Naruto tv
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?
+
+
+#EXTINF:0 vg-logo="https://www.imagenspng.com.br/wp-content/uploads/2020/01/turma_da_monica_capa_galeria_2020.png" group-title="INFANTIL",Turma da Monica
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?
+
+#EXTINF:0 vg-logo="https://i.pinimg.com/originals/27/91/e6/2791e6ced1430267d42ecaf8a235f75f.png" group-title="INFANTIL",The Jetsons
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w156384698.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1219px-ZooMoo_logo.svg.png" group-title="INFANTIL",Zoomoo Kids
+http://vipeiptv.com:25461/live/Natanael20/Natanael20/856639.m3u8?
+
+#EXTINF:0 vg-logo="http://1.bp.blogspot.com/-Vgshwdrlo4I/VPjKweHgEGI/AAAAAAAAAJ8/SvhARjdO0FU/s1600/Anime-logo-square.png" group-title="INFANTIL",Anime
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?
+
+#EXTINF:0 vg-logo="https://3.bp.blogspot.com/-s4Z93uLFXxc/X1NFq_WmPrI/AAAAAAAAAOM/2tqiX9QN-WApZkYV86AfGthSGvPKRSJCQCK4BGAYYCw/s1600/coollogo_com-21521188.png" group-title="INFANTIL",Anime Tv
+https://stmv1.srvif.com/animetv/animetv/chunklist_w82771111.m3u8
+
+#EXTINF:0 vg-logo="https://cordcuttersnews.com/wp-content/uploads/2016/02/BabyFirst-1024x384.jpg" group-title="INFANTIL",Baby First
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?
+
+#EXTINF:0 vg-logo="https://magny-les-hameaux.fr/sites/magny-les-hameaux/files/image/2020-06/p29_logo-cine-junior-rvb.jpg" group-title="INFANTIL",Cine Junior
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?
+
+#EXTINF:0 vg-logo="https://www.todoinfantil.com/img/not_img/EL%20REINO%20INFANTIL%20EL%20CANAL%20MAS%20ELEGIDO%20POR%20LOS%20BABY%20YOUTUBERS%20Y%20SUS%20PAPIS.jpg" group-title="INFANTIL",El Reino Infantil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?
+
+#EXTINF:0 vg-logo="https://www.pngkit.com/png/full/125-1255063_social-bank-kids-kids-logo-png.png" group-title="INFANTIL",Kids
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?
+
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Rocko%27s_Modern_Life_logo.png" group-title="INFANTIL",Rocko's Modern Life
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nick_Jr._2_logo.png/1200px-Nick_Jr._2_logo.png" group-title="INFANTIL",Nick Junior 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?
+
+
+#EXTINF:0 vg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png" group-title="INFANTIL",RTV
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?
