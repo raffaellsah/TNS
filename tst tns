@@ -1,6 +1,5 @@
 #EXTM3U
 
-http://man.syscdn.ml:8080/3317586993/3516882055/290685
 #EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 1" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | PPV ESPORTES",AMAZON PRIME JOGO 1
 http://man.syscdn.ml:8080/3317586993/3516882055/288681
 #EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 2" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | PPV ESPORTES",AMAZON PRIME JOGO 2
