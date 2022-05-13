@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="AGROMAIS FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" group-title="CANAIS | ABERTOS",AGROMAIS FHD
-http://man.syscdn.ml:8080/3317586993/3516882055/290683
-#EXTINF:-1 tvg-id="" tvg-name="AGROMAIS HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" group-title="CANAIS | ABERTOS",AGROMAIS HD
-http://man.syscdn.ml:8080/3317586993/3516882055/290684
-#EXTINF:-1 tvg-id="" tvg-name="AGROMAIS SD" tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" group-title="CANAIS | ABERTOS",AGROMAIS SD
 http://man.syscdn.ml:8080/3317586993/3516882055/290685
 #EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 1" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | PPV ESPORTES",AMAZON PRIME JOGO 1
 http://man.syscdn.ml:8080/3317586993/3516882055/288681
