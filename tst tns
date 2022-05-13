@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AE.png" group-title="CANAIS | FILMES E SÉRIES",A&E FHD
-http://man.syscdn.ml:8080/3317586993/3516882055/107813
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AE.png" group-title="CANAIS | FILMES E SÉRIES",A&E FHD (H265)
-http://man.syscdn.ml:8080/3317586993/3516882055/126644
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AE.png" group-title="CANAIS | FILMES E SÉRIES",A&E HD
-http://man.syscdn.ml:8080/3317586993/3516882055/107814
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AE.png" group-title="CANAIS | FILMES E SÉRIES",A&E SD
+
 http://man.syscdn.ml:8080/3317586993/3516882055/107815
 #EXTINF:-1 tvg-id="" tvg-name="AGROMAIS FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" group-title="CANAIS | ABERTOS",AGROMAIS FHD
 http://man.syscdn.ml:8080/3317586993/3516882055/290683
