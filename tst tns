@@ -1,6 +1,5 @@
 #EXTM3U
 
-http://man.syscdn.ml:8080/3317586993/3516882055/107815
 #EXTINF:-1 tvg-id="" tvg-name="AGROMAIS FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" group-title="CANAIS | ABERTOS",AGROMAIS FHD
 http://man.syscdn.ml:8080/3317586993/3516882055/290683
 #EXTINF:-1 tvg-id="" tvg-name="AGROMAIS HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" group-title="CANAIS | ABERTOS",AGROMAIS HD
