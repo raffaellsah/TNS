@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV FHD" tvg-logo="https://www.vector-logo.net/logo_preview/eps/p/Playboy_TV.png" group-title=stranger",1
+http://cdn.miptv.ws:8880/series/yztbz/cojdzn/9199.mkv
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY TV HD" tvg-logo="https://www.vector-logo.net/logo_preview/eps/p/Playboy_TV.png" group-title="stranger",2
+http://cdn.miptv.ws:8880/series/yztbz/cojdzn/9200.mkv
