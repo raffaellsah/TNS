@@ -1,7 +1,27 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV FHD" tvg-logo="https://recantododragao.com.br/wp-content/uploads/2017/07/7DS_keyart_14988162492-1-e1499115903456.jpg" group-title="stranger",Stranger ep1
-http://cdn.miptv.ws:8880/series/yztbz/cojdzn/9199.mkv
-#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY TV HD" tvg-logo="https://recantododragao.com.br/wp-content/uploads/2017/07/7DS_keyart_14988162492-1-e1499115903456.jpg" group-title="stranger",Stranger ep2
-http://cdn.miptv.ws:8880/series/yztbz/cojdzn/9200.mkv
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV FHD" tvg-logo="https://recantododragao.com.br/wp-content/uploads/2017/07/7DS_keyart_14988162492-1-e1499115903456.jpg" group-title="stranger",7 pecados 1
-http://cdn.glitch.me/4cf300e8-bce0-4e0e-a382-92011e25e147/7pEP1.mp4
+
+
+## TESTES ##
+
+ #EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://recantododragao.com.br/wp-content/uploads/2017/07/7DS_keyart_14988162492-1-e1499115903456.jpg" group-title="TST",Stranger ep1 
+ http://cdn.miptv.ws:8880/series/yztbz/cojdzn/9199.mkv
+
+ #EXTINF:-1 tvg-id="Playboytv.br" tvg-name="2" tvg-logo="https://recantododragao.com.br/wp-content/uploads/2017/07/7DS_keyart_14988162492-1-e1499115903456.jpg" group-title="TST",Stranger ep2 
+ http://cdn.miptv.ws:8880/series/yztbz/cojdzn/9200.mkv
+
+ #EXTINF:-1 tvg-id="" tvg-name="3" tvg-logo="https://recantododragao.com.br/wp-content/uploads/2017/07/7DS_keyart_14988162492-1-e1499115903456.jpg" group-title="TST",SETE PECADOS EP1
+ http://cdn.glitch.me/4cf300e8-bce0-4e0e-a382-92011e25e147/7pEP1.mp4
+
+ #EXTINF:-1 tvg-id="" tvg-name="3" tvg-logo="https://recantododragao.com.br/wp-content/uploads/2017/07/7DS_keyart_14988162492-1-e1499115903456.jpg" group-title="TST",SETE PECADOS EP2
+  http://man.syscdn.ml:8080/movie/3317586993/3516882055/456906.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="4" tvg-logo="https://recantododragao.com.br/wp-content/uploads/2017/07/7DS_keyart_14988162492-1-e1499115903456.jpg" group-title="TST",7P EP11
+ http://rr2---sn-cgpn5oxu-4vge.googlevideo.com/videoplayback?expire=1653005655&ei=12yGYvKkK_OA7gKWromwDw&ip=2804:29b8:5187:b1d:cc10:609f:1ae:f17a&id=ee29b65c18c7bb47&itag=18&source=blogger&mh=bi&mm=31&mn=sn-cgpn5oxu-4vge&ms=au&mv=m&mvi=2&pl=48&susc=bl&eaua=abk0_izulVQ&mime=video/mp4&vprv=1&dur=1489.490&lmt=1624906180468737&mt=1652976555&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIhALbJHgC52ARma1ORnKUAuGW0elbZOcoGEZa7kYL8i-qAAiAFmnhswQ8fFBC59PhGHReBGfEt4G2sxvZK2Mw4yMPaJg%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgTJu2cboYQVEfbgvpQ7qaMqpkdOFTvdpWxK7q7gaubI0CIQCEdGbZv1BYqh1M2_BAmAMZDQWbdKY7w-rXdOKzAu2aAw%3D%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="4" tvg-logo="https://recantododragao.com.br/wp-content/uploads/2017/07/7DS_keyart_14988162492-1-e1499115903456.jpg" group-title="TST",7P EP12
+ http://rr1---sn-cgpn5oxu-4vge.googlevideo.com/videoplayback?expire=1653006174&ei=3m6GYvz7CYOXkATVioSwBQ&ip=2804:29b8:5187:b1d:cc10:609f:1ae:f17a&id=dfb790c0ddd212a9&itag=18&source=blogger&mh=6n&mm=31&mn=sn-cgpn5oxu-4vge&ms=au&mv=m&mvi=1&pl=48&susc=bl&eaua=abk0_izulVQ&mime=video/mp4&vprv=1&dur=1487.656&lmt=1624906629432998&mt=1652977037&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIga0uTid-nV6Pi1QQFOvl1emA0GKvu0Ed5mRrVJy2I7NICIQDvilnA7E23QP-7plyB8L-nh_VXG0lpPihpzhjDfBNmBQ%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgZpGGBxj8KwE7cijc7_aiz_iOG4EB3Fb88bD9dDh3NbYCIQDDdpzLwXrGk3cZmNXLOGyqrJe8iTTM7UilvqT8mELp-Q%3D%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="4" tvg-logo="https://recantododragao.com.br/wp-content/uploads/2017/07/7DS_keyart_14988162492-1-e1499115903456.jpg" group-title="TST",7P EP12 TST
+ http://www.blogger.com/video.g?token=AD6v5dw-UA4_eTfaxZMBbT0OUwHQBXzHvHMg53ctXb6Tv840F0kyReP648dOh6N63f46rrplJmUP3DJEYBiRubulIMmO04OCo_I8Zl2Fe9Du21JhRZiwBxq3FkMzFOonY-wp4mHhw0g
+
+ #EXTINF:-1 tvg-id="" tvg-name="4" tvg-logo="https://recantododragao.com.br/wp-content/uploads/2017/07/7DS_keyart_14988162492-1-e1499115903456.jpg" group-title="TST",THE 100 - T7 EP1
+ http://cdn.miptv.ws:8880/series/yztbz/cojdzn/14151.mkv
